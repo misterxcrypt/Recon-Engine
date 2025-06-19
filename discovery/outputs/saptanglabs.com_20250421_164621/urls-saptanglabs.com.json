@@ -1,0 +1,1136 @@
+{
+    "URLS": [
+        {
+            "url": "https://saptanglabs.com/.well-known/ai-plugin.json",
+            "type": "json"
+        },
+        {
+            "url": "https://saptanglabs.com/.well-known/assetlinks.json",
+            "type": "json"
+        },
+        {
+            "url": "https://saptanglabs.com/.well-known/dnt-policy.txt",
+            "type": "txt"
+        },
+        {
+            "url": "https://saptanglabs.com/.well-known/gpc.json",
+            "type": "json"
+        },
+        {
+            "url": "https://saptanglabs.com/.well-known/security.txt",
+            "type": "txt"
+        },
+        {
+            "url": "https://saptanglabs.com/.well-known/trust.txt",
+            "type": "txt"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/2_rEZjCRPKbtns019xjdN/_buildManifest.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/2_rEZjCRPKbtns019xjdN/_ssgManifest.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/292-2db006d36fd8b701.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/3497facb-6d4d18259913b74e.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/453-986183d1172f787d.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/4d3a9c8b-4383a300154c33ca.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/526-c005e15120cf8eb7.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/534-33390cf83accfaea.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/546-30ed9750f0db4bd0.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/577-cb2db46f1ebd4c31.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/717-29d105e4537f4e0d.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/8698316f-283a89dcf45e11cc.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/89-b1fb3f8b48bfd852.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/957-fad55028a4a088fe.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/c125227c-620a8c6f9cfd9758.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/f40c649c-97d603ff9a045ceb.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/framework-a4b9f4216022cc2d.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/main-153b775770d04624.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/pages/_app-234d6a19081198cf.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/pages/careers-2d15e6772d0b8460.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/pages/index-eb352c538e4ecf6b.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/pages/solutions/%5Bslug%5D-022f52e5cfe0f84a.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/webpack-17a78e44fc3d0f65.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/css/c734e19202e89b4b.css",
+            "type": "css"
+        },
+        {
+            "url": "https://saptanglabs.com/ads.txt",
+            "type": "txt"
+        },
+        {
+            "url": "https://saptanglabs.com/app-ads.txt",
+            "type": "txt"
+        },
+        {
+            "url": "https://saptanglabs.com/atom.xml",
+            "type": "xml"
+        },
+        {
+            "url": "https://saptanglabs.com/career.svg",
+            "type": "image"
+        },
+        {
+            "url": "https://saptanglabs.com/Chooseus.svg",
+            "type": "image"
+        },
+        {
+            "url": "https://saptanglabs.com/CornerDesign.svg",
+            "type": "image"
+        },
+        {
+            "url": "https://saptanglabs.com/Dashboard/undefined.svg",
+            "type": "image"
+        },
+        {
+            "url": "http://saptanglabs.com/favicon.ico",
+            "type": "image"
+        },
+        {
+            "url": "https://saptanglabs.com/feed.xml",
+            "type": "xml"
+        },
+        {
+            "url": "https://saptanglabs.com/feeds/all.atom.xml",
+            "type": "xml"
+        },
+        {
+            "url": "https://saptanglabs.com/index.xml",
+            "type": "xml"
+        },
+        {
+            "url": "https://saptanglabs.com/landing.svg",
+            "type": "image"
+        },
+        {
+            "url": "https://saptanglabs.com/logo.svg",
+            "type": "image"
+        },
+        {
+            "url": "http://saptanglabs.com/robots.txt",
+            "type": "txt"
+        },
+        {
+            "url": "https://saptanglabs.com/sitemap.xml",
+            "type": "xml"
+        },
+        {
+            "url": "https://saptanglabs.com/solutions/AppThreat/Default.svg",
+            "type": "image"
+        },
+        {
+            "url": "https://saptanglabs.com/solutions/BotThreat/Default.svg",
+            "type": "image"
+        },
+        {
+            "url": "https://saptanglabs.com/solutions/BotThreat/Variant2.svg",
+            "type": "image"
+        },
+        {
+            "url": "https://saptanglabs.com/solutions/CredLeak/Default.svg",
+            "type": "image"
+        },
+        {
+            "url": "https://saptanglabs.com/solutions/CredLeak/Variant2.svg",
+            "type": "image"
+        },
+        {
+            "url": "https://saptanglabs.com/solutions/DarkWeb/Default.svg",
+            "type": "image"
+        },
+        {
+            "url": "https://saptanglabs.com/solutions/DarkWeb/Variant2.svg",
+            "type": "image"
+        },
+        {
+            "url": "https://saptanglabs.com/solutions/DomainThreat/Default.svg",
+            "type": "image"
+        },
+        {
+            "url": "https://saptanglabs.com/solutions/DomainThreat/Variant2.svg",
+            "type": "image"
+        },
+        {
+            "url": "https://saptanglabs.com/solutions/NewsMon/Default.svg",
+            "type": "image"
+        },
+        {
+            "url": "https://saptanglabs.com/solutions/NewsMon/Variant2.svg",
+            "type": "image"
+        },
+        {
+            "url": "https://saptanglabs.com/solutions/SocialMedia/Variant2.svg",
+            "type": "image"
+        },
+        {
+            "url": "https://saptanglabs.com/solutions/undefined/Default.svg",
+            "type": "image"
+        },
+        {
+            "url": "https://saptanglabs.com/WhatWeDo.svg",
+            "type": "image"
+        },
+        {
+            "url": "https://saptanglabs.com",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/products/Sarvagya",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/careers",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/resources",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/contactus",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/solutions/AppThreatMonitoring",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/solutions/SocialMediaMonitoring",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/solutions/DarkWebMonitoring",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/solutions/NewsMediaMonitoring",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/solutions/DomainThreatMonitoring",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/solutions/CredentialLeakMonitoring",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/solutions/BotThreatMonitoring",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/solutions/undefined",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/products/App%20Threat%20Monitoring",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/privacypolicy",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/static/chunks/",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/static/chunks/",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/static/css/c734e19202e89b4b.css",
+            "type": "css"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/static/css/c734e19202e89b4b.css",
+            "type": "css"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/_app",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/a/i",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/a/b",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/./",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/image",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/_error",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/data/",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/next/router",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/next/router",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/text/css",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/text/css",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/text/partytown",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/text/partytown",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/pages-manifest.json",
+            "type": "json"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/pages-manifest.json",
+            "type": "json"
+        },
+        {
+            "url": "https://saptanglabs.com/app-paths-manifest.json",
+            "type": "json"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/app-paths-manifest.json",
+            "type": "json"
+        },
+        {
+            "url": "https://saptanglabs.com/app-path-routes-manifest.json",
+            "type": "json"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/app-path-routes-manifest.json",
+            "type": "json"
+        },
+        {
+            "url": "https://saptanglabs.com/build-manifest.json",
+            "type": "json"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/build-manifest.json",
+            "type": "json"
+        },
+        {
+            "url": "https://saptanglabs.com/app-build-manifest.json",
+            "type": "json"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/app-build-manifest.json",
+            "type": "json"
+        },
+        {
+            "url": "https://saptanglabs.com/functions-config-manifest.json",
+            "type": "json"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/functions-config-manifest.json",
+            "type": "json"
+        },
+        {
+            "url": "https://saptanglabs.com/export-marker.json",
+            "type": "json"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/export-marker.json",
+            "type": "json"
+        },
+        {
+            "url": "https://saptanglabs.com/export-detail.json",
+            "type": "json"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/export-detail.json",
+            "type": "json"
+        },
+        {
+            "url": "https://saptanglabs.com/prerender-manifest.json",
+            "type": "json"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/prerender-manifest.json",
+            "type": "json"
+        },
+        {
+            "url": "https://saptanglabs.com/routes-manifest.json",
+            "type": "json"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/routes-manifest.json",
+            "type": "json"
+        },
+        {
+            "url": "https://saptanglabs.com/images-manifest.json",
+            "type": "json"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/images-manifest.json",
+            "type": "json"
+        },
+        {
+            "url": "https://saptanglabs.com/required-server-files.json",
+            "type": "json"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/required-server-files.json",
+            "type": "json"
+        },
+        {
+            "url": "https://saptanglabs.com/_devPagesManifest.json",
+            "type": "json"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/_devPagesManifest.json",
+            "type": "json"
+        },
+        {
+            "url": "https://saptanglabs.com/middleware-manifest.json",
+            "type": "json"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/middleware-manifest.json",
+            "type": "json"
+        },
+        {
+            "url": "https://saptanglabs.com/_devMiddlewareManifest.json",
+            "type": "json"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/_devMiddlewareManifest.json",
+            "type": "json"
+        },
+        {
+            "url": "https://saptanglabs.com/react-loadable-manifest.json",
+            "type": "json"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/react-loadable-manifest.json",
+            "type": "json"
+        },
+        {
+            "url": "https://saptanglabs.com/font-manifest.json",
+            "type": "json"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/font-manifest.json",
+            "type": "json"
+        },
+        {
+            "url": "https://saptanglabs.com/_document",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/500",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/image/webp",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/image/webp",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/index/",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/index",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/404",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/api",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/index.json",
+            "type": "json"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/index.json",
+            "type": "json"
+        },
+        {
+            "url": "https://saptanglabs.com/api/",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/solutions/",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/solutions/AppThreat/Default",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/solutions/SocialMedia/Default",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/solutions/DarkWeb/Default",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/solutions/NewsMon/Default",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/solutions/DomainThreat/Default",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/solutions/CredLeak/Default",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/solutions/BotThreat/Default",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/static/chunks/pages/index-eb352c538e4ecf6b.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/2_rEZjCRPKbtns019xjdN/static/chunks/pages/index-eb352c538e4ecf6b.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/static/chunks/pages/_error-3f5dd4f652135e4d.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/2_rEZjCRPKbtns019xjdN/static/chunks/pages/_error-3f5dd4f652135e4d.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/static/chunks/pages/careers-2d15e6772d0b8460.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/2_rEZjCRPKbtns019xjdN/static/chunks/pages/careers-2d15e6772d0b8460.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/static/chunks/pages/contactus-81f01f31f07a4069.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/2_rEZjCRPKbtns019xjdN/static/chunks/pages/contactus-81f01f31f07a4069.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/posts/[slug]",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/static/chunks/pages/privacypolicy-52b8f2be69652509.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/2_rEZjCRPKbtns019xjdN/static/chunks/pages/privacypolicy-52b8f2be69652509.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/products/[slug]",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/static/chunks/pages/resources-84127c1a2ef1f435.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/2_rEZjCRPKbtns019xjdN/static/chunks/pages/resources-84127c1a2ef1f435.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/resources/[blogSlug]",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/scheduledemo",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/static/chunks/pages/scheduledemo-cf5af22190f6d97e.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/2_rEZjCRPKbtns019xjdN/static/chunks/pages/scheduledemo-cf5af22190f6d97e.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/solutions/[slug]",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/static/chunks/f40c649c-97d603ff9a045ceb.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/2_rEZjCRPKbtns019xjdN/static/chunks/f40c649c-97d603ff9a045ceb.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/static/chunks/c125227c-620a8c6f9cfd9758.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/2_rEZjCRPKbtns019xjdN/static/chunks/c125227c-620a8c6f9cfd9758.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/static/chunks/4d3a9c8b-4383a300154c33ca.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/2_rEZjCRPKbtns019xjdN/static/chunks/4d3a9c8b-4383a300154c33ca.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/static/chunks/3497facb-6d4d18259913b74e.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/2_rEZjCRPKbtns019xjdN/static/chunks/3497facb-6d4d18259913b74e.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/static/chunks/8698316f-283a89dcf45e11cc.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/2_rEZjCRPKbtns019xjdN/static/chunks/8698316f-283a89dcf45e11cc.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/static/chunks/546-30ed9750f0db4bd0.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/2_rEZjCRPKbtns019xjdN/static/chunks/546-30ed9750f0db4bd0.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/static/chunks/534-33390cf83accfaea.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/2_rEZjCRPKbtns019xjdN/static/chunks/534-33390cf83accfaea.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/static/chunks/957-fad55028a4a088fe.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/2_rEZjCRPKbtns019xjdN/static/chunks/957-fad55028a4a088fe.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/static/chunks/89-b1fb3f8b48bfd852.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/2_rEZjCRPKbtns019xjdN/static/chunks/89-b1fb3f8b48bfd852.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/static/chunks/717-29d105e4537f4e0d.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/2_rEZjCRPKbtns019xjdN/static/chunks/717-29d105e4537f4e0d.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/static/chunks/577-cb2db46f1ebd4c31.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/2_rEZjCRPKbtns019xjdN/static/chunks/577-cb2db46f1ebd4c31.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/static/chunks/453-986183d1172f787d.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/2_rEZjCRPKbtns019xjdN/static/chunks/453-986183d1172f787d.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/static/chunks/292-2db006d36fd8b701.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/2_rEZjCRPKbtns019xjdN/static/chunks/292-2db006d36fd8b701.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/static/chunks/526-c005e15120cf8eb7.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/2_rEZjCRPKbtns019xjdN/static/chunks/526-c005e15120cf8eb7.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/static/chunks/110-7c99a1a1c7590ca1.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/2_rEZjCRPKbtns019xjdN/static/chunks/110-7c99a1a1c7590ca1.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/node_modules/css-mediaquery/index.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/node_modules/css-mediaquery/index.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/node_modules/hyphenate-style-name/index.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/node_modules/hyphenate-style-name/index.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/node_modules/matchmediaquery/index.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/node_modules/matchmediaquery/index.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/node_modules/object-assign/index.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/node_modules/object-assign/index.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/node_modules/prop-types/checkPropTypes.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/node_modules/prop-types/checkPropTypes.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/node_modules/prop-types/lib/ReactPropTypesSecret.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/node_modules/prop-types/lib/ReactPropTypesSecret.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/node_modules/prop-types/lib/has.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/node_modules/prop-types/lib/has.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/node_modules/prop-types/factoryWithTypeCheckers.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/node_modules/prop-types/factoryWithTypeCheckers.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/node_modules/react-is/index.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/node_modules/react-is/index.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/node_modules/prop-types/index.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/node_modules/prop-types/index.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/node_modules/react-is/cjs/react-is.development.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/node_modules/react-is/cjs/react-is.development.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/node_modules/shallow-equal/dist/index.esm.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/node_modules/shallow-equal/dist/index.esm.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/src/Component.ts",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/src/Component.ts",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/src/useMediaQuery.ts",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/src/useMediaQuery.ts",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/src/Context.ts",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/src/Context.ts",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/src/index.ts",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/src/index.ts",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/src/toQuery.ts",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/src/toQuery.ts",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/src/mediaQuery.ts",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/src/mediaQuery.ts",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/Default.svg",
+            "type": "image"
+        },
+        {
+            "url": "https://saptanglabs.com/Variant2.svg",
+            "type": "image"
+        },
+        {
+            "url": "https://saptanglabs.com/products/",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/api/send-verification-email-without-file/",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/multipart/form-data",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/multipart/form-data",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/solutions/AppThreat/Variant2",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/solutions/SocialMedia/Variant2",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/solutions/DarkWeb/Variant2",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/solutions/NewsMon/Variant2",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/solutions/DomainThreat/Variant2",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/solutions/CredLeak/Variant2",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/solutions/BotThreat/Variant2",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/text/html",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/text/html",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/application/json",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/application/json",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/application/x-www-form-urlencoded",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/application/x-www-form-urlencoded",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/pages/products/%5Bslug%5D-2c25241914816370.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/pages/posts/%5Bslug%5D-ba3d9013a847e248.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/pages/scheduledemo-cf5af22190f6d97e.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/mockimage.svg",
+            "type": "image"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/pages/multipart/form-data",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/socialMediaIcons/",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/Dashboard/",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/pages/contactus-81f01f31f07a4069.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/110-7c99a1a1c7590ca1.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/pages/resources-84127c1a2ef1f435.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/static/chunks/pages/privacypolicy-52b8f2be69652509.js",
+            "type": "javascript"
+        },
+        {
+            "url": "https://saptanglabs.com/logo.svg",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/CornerDesign.svg",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/Default.svg",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/Variant2.svg",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/landing.svg",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/WhatWeDo.svg",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/image?url=%2F&amp;amp;w=256&amp;amp;q=75 1x, /_next/image?url=%2F&amp;amp;w=640&amp;amp;q=75 2x",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/solutions/AppThreat/Default.svg",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/solutions/SocialMedia/Default.svg",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/solutions/DarkWeb/Default.svg",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/solutions/NewsMon/Default.svg",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/solutions/DomainThreat/Default.svg",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/solutions/CredLeak/Default.svg",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/solutions/BotThreat/Default.svg",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/_next/image?url=%2F&amp;amp;w=640&amp;amp;q=75",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/solutions/SocialMedia/Variant2.svg",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/solutions/DarkWeb/Variant2.svg",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/solutions/NewsMon/Variant2.svg",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/solutions/DomainThreat/Variant2.svg",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/solutions/CredLeak/Variant2.svg",
+            "type": "link"
+        },
+        {
+            "url": "https://saptanglabs.com/solutions/BotThreat/Variant2.svg",
+            "type": "link"
+        }
+    ]
+}

@@ -1,0 +1,1647 @@
+[
+  {
+    "target": "adaletotomotiv.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://adaletotomotiv.com",
+      "alive": false,
+      "status": "[Errno 111] Connection refused",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "adresistanbul.org:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://adresistanbul.org",
+      "alive": false,
+      "status": "[Errno 111] Connection refused",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "agirtasyapi.sahibinden.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://agirtasyapi.sahibinden.com",
+      "alive": false,
+      "status": 403,
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "aractedariksistemi.sahibinden.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://aractedariksistemi.sahibinden.com",
+      "alive": false,
+      "status": 403,
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "arastirma.sahibinden.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://arastirma.sahibinden.com",
+      "alive": true,
+      "status": 200,
+      "technologies": [
+        "Google Cloud",
+        "Lodash",
+        "React",
+        "Wix"
+      ],
+      "error": null
+    }
+  },
+  {
+    "target": "autodiscover.sahibinden.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://autodiscover.sahibinden.com",
+      "alive": false,
+      "status": "[Errno 111] Connection refused",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "autogold.net:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://autogold.net",
+      "alive": false,
+      "status": "[Errno 111] Connection refused",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "autoyigit.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://autoyigit.com",
+      "alive": false,
+      "status": "[Errno 111] Connection refused",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "avrupaemlakdanismanligi.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://avrupaemlakdanismanligi.com",
+      "alive": false,
+      "status": "[Errno 111] Connection refused",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "aydingayrimenkul.net:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://aydingayrimenkul.net",
+      "alive": false,
+      "status": "[Errno 111] Connection refused",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "bahcesehiryapi.sahibinden.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://bahcesehiryapi.sahibinden.com",
+      "alive": false,
+      "status": 403,
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "banaozel.sahibinden.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://banaozel.sahibinden.com",
+      "alive": false,
+      "status": 403,
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "baranmotor.net:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://baranmotor.net",
+      "alive": false,
+      "status": "[Errno 111] Connection refused",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "baykallaryapi.sahibinden.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://baykallaryapi.sahibinden.com",
+      "alive": false,
+      "status": 403,
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "becityapi.sahibinden.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://becityapi.sahibinden.com",
+      "alive": false,
+      "status": 403,
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "beskazalioglu.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://beskazalioglu.com",
+      "alive": false,
+      "status": "[Errno -5] No address associated with hostname",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "beysanotomotiv.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://beysanotomotiv.com",
+      "alive": false,
+      "status": "[Errno 111] Connection refused",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "bicakcioto.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://bicakcioto.com",
+      "alive": false,
+      "status": "[Errno 111] Connection refused",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "britsproperty.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://britsproperty.com",
+      "alive": false,
+      "status": "[Errno 111] Connection refused",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "btbaglan.sahibinden.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://btbaglan.sahibinden.com",
+      "alive": true,
+      "status": 200,
+      "technologies": [
+        "Microsoft HTTPAPI"
+      ],
+      "error": null
+    }
+  },
+  {
+    "target": "cabiryapi.sahibinden.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://cabiryapi.sahibinden.com",
+      "alive": false,
+      "status": 403,
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "click.iletisim.sahibinden.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://click.iletisim.sahibinden.com",
+      "alive": false,
+      "status": 403,
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "cloud.iletisim.sahibinden.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://cloud.iletisim.sahibinden.com",
+      "alive": false,
+      "status": 404,
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "countryemlak.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://countryemlak.com",
+      "alive": false,
+      "status": "[Errno 111] Connection refused",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "devakademi.sahibinden.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://devakademi.sahibinden.com",
+      "alive": true,
+      "status": 200,
+      "technologies": [
+        "Apache",
+        "Bootstrap",
+        "Font Awesome",
+        "Lightbox",
+        "Slick",
+        "jQuery",
+        "jQuery Migrate"
+      ],
+      "error": null
+    }
+  },
+  {
+    "target": "doguautoshow.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://doguautoshow.com",
+      "alive": false,
+      "status": "[Errno 111] Connection refused",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "dostkardeslerotomotiv.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://dostkardeslerotomotiv.com",
+      "alive": false,
+      "status": "[Errno 111] Connection refused",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "e-kutupyildizi.sahibinden.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://e-kutupyildizi.sahibinden.com",
+      "alive": false,
+      "status": 403,
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "efendioglugaleri.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://efendioglugaleri.com",
+      "alive": false,
+      "status": "[Errno 111] Connection refused",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "emlak360.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://emlak360.com",
+      "alive": false,
+      "status": 403,
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "emlakiste.net:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://emlakiste.net",
+      "alive": false,
+      "status": "[Errno 111] Connection refused",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "emlakpiyasam.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://emlakpiyasam.com",
+      "alive": true,
+      "status": 200,
+      "technologies": [
+        "Next.js",
+        "Node.js",
+        "React",
+        "Vercel",
+        "webpack"
+      ],
+      "error": null
+    }
+  },
+  {
+    "target": "enerjiotomotiv.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://enerjiotomotiv.com",
+      "alive": false,
+      "status": "[Errno 111] Connection refused",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "ermatline.net:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://ermatline.net",
+      "alive": false,
+      "status": "[Errno 111] Connection refused",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "escityyapi.sahibinden.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://escityyapi.sahibinden.com",
+      "alive": false,
+      "status": 403,
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "esenotomotivbursa.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://esenotomotivbursa.com",
+      "alive": false,
+      "status": "[Errno 111] Connection refused",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "etkinticaret.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://etkinticaret.com",
+      "alive": false,
+      "status": "[Errno 111] Connection refused",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "evrogayrimenkul.org:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://evrogayrimenkul.org",
+      "alive": false,
+      "status": "[Errno 111] Connection refused",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "exclusivegarage.net:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://exclusivegarage.net",
+      "alive": true,
+      "status": 200,
+      "technologies": [
+        "Cloudflare",
+        "Lightbox",
+        "Shopify",
+        "Slick",
+        "jQuery",
+        "jsDelivr"
+      ],
+      "error": null
+    }
+  },
+  {
+    "target": "fagrupyapi.sahibinden.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://fagrupyapi.sahibinden.com",
+      "alive": false,
+      "status": 403,
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "fpclgnkuoccezfbj.mkufuvhvhyuondxs.pomwjjqgklwzfken.gzwsbjncvhyuotdn.mqxldxlwjccvnxld.piqnrzplnrzfkuon.mydqnrzfkegmnbtm.nezwjsbcoaakbnlw.plufbjjzwskskbzn.mqxldxlwjccvnxld.nezwjsbcoaakbnlw.nnhmpvhfihfklnfr.iotdxbjcnnydgwqg.portal.sahibinden.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://fpclgnkuoccezfbj.mkufuvhvhyuondxs.pomwjjqgklwzfken.gzwsbjncvhyuotdn.mqxldxlwjccvnxld.piqnrzplnrzfkuon.mydqnrzfkegmnbtm.nezwjsbcoaakbnlw.plufbjjzwskskbzn.mqxldxlwjccvnxld.nezwjsbcoaakbnlw.nnhmpvhfihfklnfr.iotdxbjcnnydgwqg.portal.sahibinden.com",
+      "alive": false,
+      "status": "[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:1028)",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "g0.shbdn.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://g0.shbdn.com",
+      "alive": false,
+      "status": "timed out",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "galeriozcan.net:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://galeriozcan.net",
+      "alive": false,
+      "status": "[Errno 111] Connection refused",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "gayrimenkulsatisofisi.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://gayrimenkulsatisofisi.com",
+      "alive": false,
+      "status": "[Errno 111] Connection refused",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "gortanotomotiv.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://gortanotomotiv.com",
+      "alive": false,
+      "status": "[Errno 111] Connection refused",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "guvenlitapu.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://guvenlitapu.com",
+      "alive": false,
+      "status": "[SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1028)",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "hicretyapi.sahibinden.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://hicretyapi.sahibinden.com",
+      "alive": false,
+      "status": 403,
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "i-cm.shbdn.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://i-cm.shbdn.com",
+      "alive": false,
+      "status": 404,
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "i-sahibinden.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://i-sahibinden.com",
+      "alive": false,
+      "status": "[SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1028)",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "i0.shbdn.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://i0.shbdn.com",
+      "alive": false,
+      "status": 404,
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "idealevbodrum.net:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://idealevbodrum.net",
+      "alive": false,
+      "status": "[Errno 111] Connection refused",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "iletisim.sahibinden.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://iletisim.sahibinden.com",
+      "alive": false,
+      "status": "timed out",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "image.iletisim.sahibinden.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://image.iletisim.sahibinden.com",
+      "alive": false,
+      "status": 403,
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "image5.sahibinden.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://image5.sahibinden.com",
+      "alive": false,
+      "status": 404,
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "impgayrimenkul.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://impgayrimenkul.com",
+      "alive": true,
+      "status": 200,
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "inciemlakinsaat.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://inciemlakinsaat.com",
+      "alive": false,
+      "status": "[Errno 111] Connection refused",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "istanbulrealty.com.tr:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://istanbulrealty.com.tr",
+      "alive": false,
+      "status": "[Errno 111] Connection refused",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "kalkimsahinemlak.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://kalkimsahinemlak.com",
+      "alive": false,
+      "status": "[Errno 111] Connection refused",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "kamiltest.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://kamiltest.com",
+      "alive": false,
+      "status": "[Errno 111] Connection refused",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "karaburunyapi.sahibinden.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://karaburunyapi.sahibinden.com",
+      "alive": false,
+      "status": 403,
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "karatasmimarlik.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://karatasmimarlik.com",
+      "alive": false,
+      "status": "[Errno 111] Connection refused",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "keskinlermaslak.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://keskinlermaslak.com",
+      "alive": false,
+      "status": "[Errno 111] Connection refused",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "kizilkayaotomotiv.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://kizilkayaotomotiv.com",
+      "alive": false,
+      "status": "[Errno 111] Connection refused",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "koftearabasiimalati.net:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://koftearabasiimalati.net",
+      "alive": false,
+      "status": "[Errno 111] Connection refused",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "kordeveotomotiv.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://kordeveotomotiv.com",
+      "alive": false,
+      "status": "[Errno 111] Connection refused",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "lb.sahibinden.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://lb.sahibinden.com",
+      "alive": false,
+      "status": "[SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1028)",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "libpsmoveapi.sahibinden.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://libpsmoveapi.sahibinden.com",
+      "alive": false,
+      "status": 403,
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "m.sahibinden.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://m.sahibinden.com",
+      "alive": false,
+      "status": 403,
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "mail.sahibinden.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://mail.sahibinden.com",
+      "alive": false,
+      "status": "timed out",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "marmaraemlakavcilar.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://marmaraemlakavcilar.com",
+      "alive": false,
+      "status": "[Errno 111] Connection refused",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "media.skp.shbdn.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://media.skp.shbdn.com",
+      "alive": false,
+      "status": "[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:1028)",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "modifiyearac.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://modifiyearac.com",
+      "alive": false,
+      "status": "[SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1028)",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "motlasoto.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://motlasoto.com",
+      "alive": false,
+      "status": "[Errno 111] Connection refused",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "nasipotomotiv.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://nasipotomotiv.com",
+      "alive": false,
+      "status": "[Errno 111] Connection refused",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "nebemlak.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://nebemlak.com",
+      "alive": false,
+      "status": "[Errno 111] Connection refused",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "nexusgayrimenkul.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://nexusgayrimenkul.com",
+      "alive": false,
+      "status": "[Errno -2] Name or service not known",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "ofisim.sahibinden.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://ofisim.sahibinden.com",
+      "alive": false,
+      "status": 403,
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "osmapi.sahibinden.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://osmapi.sahibinden.com",
+      "alive": false,
+      "status": 403,
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "ozcelikoglu.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://ozcelikoglu.com",
+      "alive": false,
+      "status": "[Errno 111] Connection refused",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "ozhamurkar2.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://ozhamurkar2.com",
+      "alive": true,
+      "status": 200,
+      "technologies": [
+        "Cloudflare",
+        "MySQL",
+        "PHP",
+        "WordPress",
+        "Yoast SEO",
+        "jQuery",
+        "jQuery Migrate"
+      ],
+      "error": null
+    }
+  },
+  {
+    "target": "ozkanotomotivankara.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://ozkanotomotivankara.com",
+      "alive": false,
+      "status": "[Errno 111] Connection refused",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "payidargayrimenkul.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://payidargayrimenkul.com",
+      "alive": false,
+      "status": "[Errno 111] Connection refused",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "pointmotor.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://pointmotor.com",
+      "alive": false,
+      "status": "[Errno 111] Connection refused",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "ranmotors.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://ranmotors.com",
+      "alive": false,
+      "status": "[Errno 111] Connection refused",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "remaxeksen.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://remaxeksen.com",
+      "alive": false,
+      "status": "[Errno -5] No address associated with hostname",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "remaxeksencekmekoy.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://remaxeksencekmekoy.com",
+      "alive": false,
+      "status": "[Errno 111] Connection refused",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "s0.shbdn.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://s0.shbdn.com",
+      "alive": false,
+      "status": 403,
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "sadikogluemlak.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://sadikogluemlak.com",
+      "alive": false,
+      "status": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'sadikogluemlak.com'. (_ssl.c:1028)",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "sahi.io:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://sahi.io",
+      "alive": false,
+      "status": "[SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1028)",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "sahibinden.app:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://sahibinden.app",
+      "alive": false,
+      "status": "[SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1028)",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "sahibinden.biz:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://sahibinden.biz",
+      "alive": false,
+      "status": "[SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1028)",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "sahibinden.cc:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://sahibinden.cc",
+      "alive": false,
+      "status": "[SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1028)",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "sahibinden.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://sahibinden.com",
+      "alive": false,
+      "status": 403,
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "sahibinden.com.tr:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://sahibinden.com.tr",
+      "alive": false,
+      "status": 403,
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "sahibinden.net:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://sahibinden.net",
+      "alive": false,
+      "status": "[SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1028)",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "sahibinden.us:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://sahibinden.us",
+      "alive": false,
+      "status": "[SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1028)",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "sahibindenalisveris.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://sahibindenalisveris.com",
+      "alive": false,
+      "status": "[SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1028)",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "sahibindennativead.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://sahibindennativead.com",
+      "alive": false,
+      "status": "[SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1028)",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "sahibindex.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://sahibindex.com",
+      "alive": false,
+      "status": "[SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1028)",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "sahitrend.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://sahitrend.com",
+      "alive": false,
+      "status": "[SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1028)",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "salbasbozuyukgayrimenkul.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://salbasbozuyukgayrimenkul.com",
+      "alive": false,
+      "status": "[Errno 111] Connection refused",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "sariyeremlaksariyer.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://sariyeremlaksariyer.com",
+      "alive": false,
+      "status": "[Errno 111] Connection refused",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "secmail.sahibinden.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://secmail.sahibinden.com",
+      "alive": false,
+      "status": "timed out",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "secmail2.sahibinden.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://secmail2.sahibinden.com",
+      "alive": false,
+      "status": "timed out",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "secure.sahibinden.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://secure.sahibinden.com",
+      "alive": false,
+      "status": 403,
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "sentinushotels.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://sentinushotels.com",
+      "alive": false,
+      "status": 403,
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "sercanlarotomotiv.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://sercanlarotomotiv.com",
+      "alive": false,
+      "status": "[Errno 111] Connection refused",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "sh.shbdn.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://sh.shbdn.com",
+      "alive": false,
+      "status": 403,
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "shbdn.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://shbdn.com",
+      "alive": false,
+      "status": 403,
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "sirisyapi.sahibinden.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://sirisyapi.sahibinden.com",
+      "alive": false,
+      "status": 403,
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "sm.shbdn.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://sm.shbdn.com",
+      "alive": false,
+      "status": 403,
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "smtp-rp01.sahibinden.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://smtp-rp01.sahibinden.com",
+      "alive": false,
+      "status": "timed out",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "smtp-rp02.sahibinden.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://smtp-rp02.sahibinden.com",
+      "alive": false,
+      "status": "timed out",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "smtp-rp03.sahibinden.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://smtp-rp03.sahibinden.com",
+      "alive": false,
+      "status": "timed out",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "smtp-rp04.sahibinden.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://smtp-rp04.sahibinden.com",
+      "alive": false,
+      "status": "timed out",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "smtp-rp05.sahibinden.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://smtp-rp05.sahibinden.com",
+      "alive": false,
+      "status": "timed out",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "smtp-rp06.sahibinden.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://smtp-rp06.sahibinden.com",
+      "alive": false,
+      "status": "timed out",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "smtp-rp07.sahibinden.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://smtp-rp07.sahibinden.com",
+      "alive": false,
+      "status": "timed out",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "smtp-rp11.sahibinden.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://smtp-rp11.sahibinden.com",
+      "alive": false,
+      "status": "timed out",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "smtp-rp14.sahibinden.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://smtp-rp14.sahibinden.com",
+      "alive": false,
+      "status": "timed out",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "smtp-rp16.sahibinden.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://smtp-rp16.sahibinden.com",
+      "alive": false,
+      "status": "timed out",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "smtp-rp18.sahibinden.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://smtp-rp18.sahibinden.com",
+      "alive": false,
+      "status": "timed out",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "static.sahibinden.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://static.sahibinden.com",
+      "alive": false,
+      "status": 403,
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "static.skp.shbdn.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://static.skp.shbdn.com",
+      "alive": false,
+      "status": "[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:1028)",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "status.sahibinden.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://status.sahibinden.com",
+      "alive": true,
+      "status": 200,
+      "technologies": [
+        "Cloudflare",
+        "Google Cloud"
+      ],
+      "error": null
+    }
+  },
+  {
+    "target": "taobaoapi.sahibinden.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://taobaoapi.sahibinden.com",
+      "alive": false,
+      "status": 403,
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "tapukontrol.net:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://tapukontrol.net",
+      "alive": false,
+      "status": "[SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1028)",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "telework-mi4bizapi.sahibinden.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://telework-mi4bizapi.sahibinden.com",
+      "alive": false,
+      "status": 403,
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "ts66laapi.sahibinden.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://ts66laapi.sahibinden.com",
+      "alive": false,
+      "status": 403,
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "turkuazrezidans.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://turkuazrezidans.com",
+      "alive": false,
+      "status": "[Errno 111] Connection refused",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "ue.shbdn.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://ue.shbdn.com",
+      "alive": false,
+      "status": "The read operation timed out",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "uzmanyapi.sahibinden.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://uzmanyapi.sahibinden.com",
+      "alive": false,
+      "status": 403,
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "vegayapi.sahibinden.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://vegayapi.sahibinden.com",
+      "alive": false,
+      "status": 403,
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "vezirevemlak.net:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://vezirevemlak.net",
+      "alive": false,
+      "status": "[Errno 111] Connection refused",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "view.iletisim.sahibinden.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://view.iletisim.sahibinden.com",
+      "alive": true,
+      "status": 200,
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "virt-tour.sahibinden.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://virt-tour.sahibinden.com",
+      "alive": false,
+      "status": 403,
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "virtualtour.sahibinden.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://virtualtour.sahibinden.com",
+      "alive": false,
+      "status": 403,
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "vpn-sahiplex.sahibinden.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://vpn-sahiplex.sahibinden.com",
+      "alive": false,
+      "status": "timed out",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "winnerproject.net:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://winnerproject.net",
+      "alive": false,
+      "status": "[Errno 111] Connection refused",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "ws.sahibinden.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://ws.sahibinden.com",
+      "alive": false,
+      "status": 400,
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "www.www.2.sahibinden.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://www.www.2.sahibinden.com",
+      "alive": false,
+      "status": "[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:1028)",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "yardim.sahibinden.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://yardim.sahibinden.com",
+      "alive": false,
+      "status": 403,
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "yasliauto.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://yasliauto.com",
+      "alive": false,
+      "status": "[Errno 111] Connection refused",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "yigitmotorluaraclar.net:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://yigitmotorluaraclar.net",
+      "alive": false,
+      "status": "[Errno 111] Connection refused",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "yigitrentacar.net:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://yigitrentacar.net",
+      "alive": false,
+      "status": "[Errno 111] Connection refused",
+      "technologies": [],
+      "error": null
+    }
+  },
+  {
+    "target": "yuvakgilinsaat.com:443",
+    "fingerprintx": [],
+    "wappalyzer": {
+      "url": "https://yuvakgilinsaat.com",
+      "alive": false,
+      "status": "[Errno 111] Connection refused",
+      "technologies": [],
+      "error": null
+    }
+  }
+]

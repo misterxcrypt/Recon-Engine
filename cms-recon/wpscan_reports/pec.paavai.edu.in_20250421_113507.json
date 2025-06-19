@@ -1,0 +1,882 @@
+{
+  "domain": "pec.paavai.edu.in",
+  "is_wordpress": true,
+  "wpscan_version": "_______________________________________________________________",
+  "cms_info": {
+    "start_time": 1745215348,
+    "start_memory": 63250432,
+    "target_url": "https://pec.paavai.edu.in/",
+    "target_ip": "103.57.150.1",
+    "effective_url": "https://pec.paavai.edu.in/",
+    "interesting_findings": [
+      {
+        "url": "https://pec.paavai.edu.in/",
+        "to_s": "Headers",
+        "type": "headers",
+        "found_by": "Headers (Passive Detection)",
+        "confidence": 100,
+        "confirmed_by": {},
+        "references": {},
+        "interesting_entries": [
+          "server: Microsoft-IIS/10.0",
+          "x-powered-by: PHP/7.4.33, ASP.NET"
+        ]
+      },
+      {
+        "url": "https://pec.paavai.edu.in/readme.html",
+        "to_s": "WordPress readme found: https://pec.paavai.edu.in/readme.html",
+        "type": "readme",
+        "found_by": "Direct Access (Aggressive Detection)",
+        "confidence": 100,
+        "confirmed_by": {},
+        "references": {},
+        "interesting_entries": []
+      },
+      {
+        "url": "https://pec.paavai.edu.in/wp-content/backup-db/",
+        "to_s": "A backup directory has been found: https://pec.paavai.edu.in/wp-content/backup-db/",
+        "type": "backup_db",
+        "found_by": "Direct Access (Aggressive Detection)",
+        "confidence": 70,
+        "confirmed_by": {},
+        "references": {
+          "url": [
+            "https://github.com/wpscanteam/wpscan/issues/422"
+          ]
+        },
+        "interesting_entries": []
+      },
+      {
+        "url": "https://pec.paavai.edu.in/wp-content/mu-plugins/",
+        "to_s": "This site has 'Must Use Plugins': https://pec.paavai.edu.in/wp-content/mu-plugins/",
+        "type": "mu_plugins",
+        "found_by": "Direct Access (Aggressive Detection)",
+        "confidence": 80,
+        "confirmed_by": {},
+        "references": {
+          "url": [
+            "http://codex.wordpress.org/Must_Use_Plugins"
+          ]
+        },
+        "interesting_entries": []
+      }
+    ],
+    "version": {
+      "number": "6.5.2",
+      "release_date": "2024-04-09",
+      "status": "insecure",
+      "found_by": "Style Etag (Aggressive Detection)",
+      "confidence": 100,
+      "interesting_entries": [
+        "https://pec.paavai.edu.in/wp-admin/load-styles.php, Match: '6.5.2'"
+      ],
+      "confirmed_by": {
+        "Query Parameter In Install Page (Aggressive Detection)": {
+          "confidence": 100,
+          "interesting_entries": [
+            "https://pec.paavai.edu.in/wp-includes/css/dashicons.min.css?ver=6.5.2",
+            "https://pec.paavai.edu.in/wp-includes/css/buttons.min.css?ver=6.5.2",
+            "https://pec.paavai.edu.in/wp-admin/css/forms.min.css?ver=6.5.2",
+            "https://pec.paavai.edu.in/wp-admin/css/l10n.min.css?ver=6.5.2",
+            "https://pec.paavai.edu.in/wp-admin/css/install.min.css?ver=6.5.2"
+          ]
+        }
+      },
+      "vulnerabilities": [
+        {
+          "title": "WordPress < 6.5.5 - Contributor+ Stored XSS in HTML API",
+          "fixed_in": "6.5.5",
+          "references": {
+            "url": [
+              "https://wordpress.org/news/2024/06/wordpress-6-5-5/"
+            ],
+            "wpvulndb": [
+              "2c63f136-4c1f-4093-9a8c-5e51f19eae28"
+            ]
+          }
+        },
+        {
+          "title": "WordPress < 6.5.5 - Contributor+ Stored XSS in Template-Part Block",
+          "fixed_in": "6.5.5",
+          "references": {
+            "url": [
+              "https://wordpress.org/news/2024/06/wordpress-6-5-5/"
+            ],
+            "wpvulndb": [
+              "7c448f6d-4531-4757-bff0-be9e3220bbbb"
+            ]
+          }
+        },
+        {
+          "title": "WordPress < 6.5.5 - Contributor+ Path Traversal in Template-Part Block",
+          "fixed_in": "6.5.5",
+          "references": {
+            "url": [
+              "https://wordpress.org/news/2024/06/wordpress-6-5-5/"
+            ],
+            "wpvulndb": [
+              "36232787-754a-4234-83d6-6ded5e80251c"
+            ]
+          }
+        }
+      ]
+    },
+    "main_theme": null,
+    "plugins": {
+      "a3-lazy-load": {
+        "slug": "a3-lazy-load",
+        "location": "https://pec.paavai.edu.in/wp-content/plugins/a3-lazy-load/",
+        "latest_version": "2.7.3",
+        "last_updated": "2025-04-14T09:15:00.000Z",
+        "outdated": true,
+        "readme_url": null,
+        "directory_listing": null,
+        "error_log_url": null,
+        "found_by": "Urls In Homepage (Passive Detection)",
+        "confidence": 80,
+        "interesting_entries": [],
+        "confirmed_by": {},
+        "vulnerabilities": [],
+        "version": {
+          "number": "2.7.2",
+          "confidence": 80,
+          "found_by": "Readme - Stable Tag (Aggressive Detection)",
+          "interesting_entries": [
+            "https://pec.paavai.edu.in/wp-content/plugins/a3-lazy-load/readme.txt"
+          ],
+          "confirmed_by": {}
+        }
+      },
+      "form-maker": {
+        "slug": "form-maker",
+        "location": "https://pec.paavai.edu.in/wp-content/plugins/form-maker/",
+        "latest_version": "1.15.33",
+        "last_updated": "2025-01-27T08:07:00.000Z",
+        "outdated": true,
+        "readme_url": null,
+        "directory_listing": null,
+        "error_log_url": null,
+        "found_by": "Urls In Homepage (Passive Detection)",
+        "confidence": 80,
+        "interesting_entries": [],
+        "confirmed_by": {},
+        "vulnerabilities": [
+          {
+            "title": "Form Maker by 10Web < 1.15.26 - Admin+ Stored XSS",
+            "fixed_in": "1.15.26",
+            "references": {
+              "cve": [
+                "2024-6130"
+              ],
+              "url": [
+                "https://research.cleantalk.org"
+              ],
+              "youtube": [
+                "https://www.youtube.com/watch?v=https://drive.google.com/file/d/1w-raEEc7OpZ2oiiAb9tjFJAa8mS2zaf_/view?usp=sharing"
+              ],
+              "wpvulndb": [
+                "bbed2968-4bd6-49ae-bd61-8a1f751e7041"
+              ]
+            }
+          },
+          {
+            "title": "Form Maker by 10Web < 1.15.27 - Reflected Cross-Site Scripting",
+            "fixed_in": "1.15.27",
+            "references": {
+              "cve": [
+                "2024-43220"
+              ],
+              "url": [
+                "https://patchstack.com/database/vulnerability/form-maker/wordpress-form-maker-by-10web-plugin-1-15-26-reflected-cross-site-scripting-xss-vulnerability"
+              ],
+              "wpvulndb": [
+                "3cb2dec9-3f52-4817-8122-d27bf1350714"
+              ]
+            }
+          },
+          {
+            "title": "Form Maker < 1.15.28 - Authenticated (Administrator+) Stored Cross-Site Scripting",
+            "fixed_in": "1.15.28",
+            "references": {
+              "cve": [
+                "2024-8633"
+              ],
+              "url": [
+                "https://www.wordfence.com/threat-intel/vulnerabilities/id/2b32cc12-c8d5-40b8-9510-42699beec581"
+              ],
+              "wpvulndb": [
+                "ed9feed6-c6b7-474a-859a-1139b2862361"
+              ]
+            }
+          },
+          {
+            "title": "Form Maker by 10Web \u2013 Mobile-Friendly Drag & Drop Contact Form Builder < 1.15.31 - Reflected Cross-Site Scripting via add_query_arg Parameter",
+            "fixed_in": "1.15.31",
+            "references": {
+              "cve": [
+                "2024-10265"
+              ],
+              "url": [
+                "https://www.wordfence.com/threat-intel/vulnerabilities/id/0fb1a2c2-581d-47ed-a180-9f70fdf79066"
+              ],
+              "wpvulndb": [
+                "2bfdd540-b833-4a12-bfca-105effa43936"
+              ]
+            }
+          },
+          {
+            "title": "Multiple Plugins - Contributor+ DOM-Based Stored XSS via FancyBox JavaScript Library",
+            "fixed_in": "1.15.28",
+            "references": {
+              "cve": [
+                "2024-5020"
+              ],
+              "url": [
+                "https://www.wordfence.com/threat-intel/vulnerabilities/id/d99d4b9a-aa09-434d-91a8-7afaa0e8b5db"
+              ],
+              "wpvulndb": [
+                "f98fdb3f-c941-4f42-953d-99730e76352a"
+              ]
+            }
+          },
+          {
+            "title": "Form Maker by 10Web < 1.15.31 - Admin+ Stored XSS",
+            "fixed_in": "1.15.31",
+            "references": {
+              "cve": [
+                "2024-10562"
+              ],
+              "url": [
+                "https://research.cleantalk.org/cve-2024-10562"
+              ],
+              "wpvulndb": [
+                "317f6cb7-774f-4381-a855-858c051aa1d5"
+              ]
+            }
+          },
+          {
+            "title": "Form Maker by 10Web < 1.15.33 -  Admin+ Stored XSS",
+            "fixed_in": "1.15.33",
+            "references": {
+              "cve": [
+                "2024-13605"
+              ],
+              "url": [
+                "https://research.cleantalk.org/cve-2024-13605/"
+              ],
+              "wpvulndb": [
+                "d5543b3b-1c28-481b-aba4-9a07d160e1f2"
+              ]
+            }
+          },
+          {
+            "title": " Form Maker by 10Web < 1.15.33 - Admin+ Stored XSS via Theme Title",
+            "fixed_in": "1.15.33",
+            "references": {
+              "cve": [
+                "2024-13053"
+              ],
+              "url": [
+                "https://research.cleantalk.org/cve-2024-13053/"
+              ],
+              "wpvulndb": [
+                "1c667a70-8b38-4854-8969-2971f9c2fe79"
+              ]
+            }
+          },
+          {
+            "title": "Form Maker by 10Web < 1.15.30 - Admin+ Stored XSS",
+            "fixed_in": "1.15.30",
+            "references": {
+              "cve": [
+                "2024-10558"
+              ],
+              "url": [
+                "https://research.cleantalk.org/cve-2024-10558"
+              ],
+              "wpvulndb": [
+                "7028db78-2870-48d5-b06b-480ac8be3655"
+              ]
+            }
+          },
+          {
+            "title": "Form Maker by 10Web < 1.15.30 - Admin+ Stored XSS",
+            "fixed_in": "1.15.30",
+            "references": {
+              "cve": [
+                "2024-10560"
+              ],
+              "url": [
+                "https://research.cleantalk.org/cve-2024-10560"
+              ],
+              "wpvulndb": [
+                "80298c89-544d-4894-a837-253f5f26cf42"
+              ]
+            }
+          },
+          {
+            "title": "Form Maker by 10Web < 1.15.32 - Admin+ Stored XSS",
+            "fixed_in": "1.15.32",
+            "references": {
+              "cve": [
+                "2024-10680"
+              ],
+              "url": [
+                "https://research.clenatalk.org/cve-2024-10680/"
+              ],
+              "wpvulndb": [
+                "240948d7-ece0-437f-b926-62937bdbd9db"
+              ]
+            }
+          }
+        ],
+        "version": {
+          "number": "1.15.25",
+          "confidence": 100,
+          "found_by": "Readme - Stable Tag (Aggressive Detection)",
+          "interesting_entries": [
+            "https://pec.paavai.edu.in/wp-content/plugins/form-maker/readme.txt"
+          ],
+          "confirmed_by": {
+            "Readme - ChangeLog Section (Aggressive Detection)": {
+              "confidence": 50,
+              "interesting_entries": [
+                "https://pec.paavai.edu.in/wp-content/plugins/form-maker/readme.txt"
+              ]
+            }
+          }
+        }
+      },
+      "google-analytics-for-wordpress": {
+        "slug": "google-analytics-for-wordpress",
+        "location": "https://pec.paavai.edu.in/wp-content/plugins/google-analytics-for-wordpress/",
+        "latest_version": "9.4.1",
+        "last_updated": "2025-03-27T16:04:00.000Z",
+        "outdated": true,
+        "readme_url": null,
+        "directory_listing": null,
+        "error_log_url": null,
+        "found_by": "Monster Insights Comment (Passive Detection)",
+        "confidence": 30,
+        "interesting_entries": [],
+        "confirmed_by": {},
+        "vulnerabilities": [],
+        "version": {
+          "number": "8.26.0",
+          "confidence": 100,
+          "found_by": "Monster Insights Comment (Passive Detection)",
+          "interesting_entries": [
+            "https://pec.paavai.edu.in/, Match: 'Google Analytics by MonsterInsights plugin v8.26.0 -'"
+          ],
+          "confirmed_by": {
+            "Readme - Stable Tag (Aggressive Detection)": {
+              "confidence": 80,
+              "interesting_entries": [
+                "https://pec.paavai.edu.in/wp-content/plugins/google-analytics-for-wordpress/readme.txt"
+              ]
+            },
+            "Readme - ChangeLog Section (Aggressive Detection)": {
+              "confidence": 50,
+              "interesting_entries": [
+                "https://pec.paavai.edu.in/wp-content/plugins/google-analytics-for-wordpress/readme.txt"
+              ]
+            }
+          }
+        }
+      },
+      "popup-builder": {
+        "slug": "popup-builder",
+        "location": "https://pec.paavai.edu.in/wp-content/plugins/popup-builder/",
+        "latest_version": "4.3.8",
+        "last_updated": "2025-04-10T16:02:00.000Z",
+        "outdated": true,
+        "readme_url": null,
+        "directory_listing": null,
+        "error_log_url": null,
+        "found_by": "Urls In Homepage (Passive Detection)",
+        "confidence": 80,
+        "interesting_entries": [],
+        "confirmed_by": {},
+        "vulnerabilities": [
+          {
+            "title": "Popup Builder < 4.3.0 - Authenticated(Contributor+) Stored Cross-Site Scripting via Custom JS",
+            "fixed_in": "4.3.0",
+            "references": {
+              "cve": [
+                "2024-2506"
+              ],
+              "url": [
+                "https://www.wordfence.com/threat-intel/vulnerabilities/id/804a973e-4650-428c-910f-09e4fc3aa4bb"
+              ],
+              "wpvulndb": [
+                "aecb5d1f-0790-46d4-b7a8-2da13369be59"
+              ]
+            }
+          },
+          {
+            "title": "Popup Builder \u2013 Create highly converting, mobile friendly marketing popups < 4.3.2 - Missing Authorization and Nonce Exposure",
+            "fixed_in": "4.3.2",
+            "references": {
+              "cve": [
+                "2023-6696"
+              ],
+              "url": [
+                "https://www.wordfence.com/threat-intel/vulnerabilities/id/9f86ec30-7a9d-4c36-8559-bde331c8b958"
+              ],
+              "wpvulndb": [
+                "8d5ed338-ccf5-4110-94e6-c7124b280282"
+              ]
+            }
+          },
+          {
+            "title": "Popup Builder < 4.3.2 - Missing Authorization in Multiple AJAX Actions",
+            "fixed_in": "4.3.2",
+            "references": {
+              "cve": [
+                "2024-2544"
+              ],
+              "url": [
+                "https://www.wordfence.com/threat-intel/vulnerabilities/id/04802c63-4a5d-4948-9ef1-cf89c4cc757e"
+              ],
+              "wpvulndb": [
+                "401628d3-842e-4145-b8b9-ec8ea0ecd673"
+              ]
+            }
+          },
+          {
+            "title": "Popup Builder < 4.3.7 - Sensitive Information Exposure via Imported Subscribers CSV File",
+            "fixed_in": "4.3.7",
+            "references": {
+              "cve": [
+                "2024-2541"
+              ],
+              "url": [
+                "https://www.wordfence.com/threat-intel/vulnerabilities/id/086cd6a0-adb6-4e12-b34c-630297f036f3"
+              ],
+              "wpvulndb": [
+                "c9e9fb80-c73d-4b42-baa8-a1695ad7bdff"
+              ]
+            }
+          },
+          {
+            "title": "Popup Builder < 4.3.5 - Admin+ Stored XSS",
+            "fixed_in": "4.3.5",
+            "references": {
+              "cve": [
+                "2024-9428"
+              ],
+              "url": [
+                "https://research.cleantalk.org/cve-2024-9428/"
+              ],
+              "wpvulndb": [
+                "6e246547-e509-48db-88ae-b2f943398377"
+              ]
+            }
+          }
+        ],
+        "version": {
+          "number": "4.2.7",
+          "confidence": 80,
+          "found_by": "Readme - Stable Tag (Aggressive Detection)",
+          "interesting_entries": [
+            "https://pec.paavai.edu.in/wp-content/plugins/popup-builder/readme.txt"
+          ],
+          "confirmed_by": {}
+        }
+      },
+      "quform": {
+        "slug": "quform",
+        "location": "https://pec.paavai.edu.in/wp-content/plugins/quform/",
+        "latest_version": "2.21.0",
+        "last_updated": "2024-09-24T21:46:55.000Z",
+        "outdated": false,
+        "readme_url": null,
+        "directory_listing": null,
+        "error_log_url": null,
+        "found_by": "Urls In Homepage (Passive Detection)",
+        "confidence": 80,
+        "interesting_entries": [],
+        "confirmed_by": {},
+        "vulnerabilities": [
+          {
+            "title": "Quform - WordPress Form Builder < 2.21.0 - Unauthenticated Sensitive Information Exposure",
+            "fixed_in": "2.21.0",
+            "references": {
+              "cve": [
+                "2024-8756"
+              ],
+              "url": [
+                "https://www.wordfence.com/threat-intel/vulnerabilities/id/beb8ea66-3cd7-452f-9e64-8439de0ddc55"
+              ],
+              "wpvulndb": [
+                "52db8aa1-1d07-4691-a828-30aabdadae4d"
+              ]
+            }
+          }
+        ],
+        "version": null
+      },
+      "revslider": {
+        "slug": "revslider",
+        "location": "https://pec.paavai.edu.in/wp-content/plugins/revslider/",
+        "latest_version": "6.7.32",
+        "last_updated": "2025-04-17T00:54:54.000Z",
+        "outdated": true,
+        "readme_url": null,
+        "directory_listing": null,
+        "error_log_url": null,
+        "found_by": "Urls In Homepage (Passive Detection)",
+        "confidence": 100,
+        "interesting_entries": [],
+        "confirmed_by": {
+          "Comment (Passive Detection)": {
+            "confidence": 30,
+            "interesting_entries": []
+          },
+          "Div Data Version (Passive Detection)": {
+            "confidence": 40,
+            "interesting_entries": []
+          }
+        },
+        "vulnerabilities": [
+          {
+            "title": "Revolution Slider <= 6.6.12 - Author+ Remote Code Execution",
+            "fixed_in": "6.6.13",
+            "references": {
+              "cve": [
+                "2023-2359"
+              ],
+              "wpvulndb": [
+                "a8350890-e6d4-4b04-a158-2b0ee3748e65"
+              ]
+            }
+          },
+          {
+            "title": "Slider Revolution < 6.6.15 - Authenticated (Contributor+) Stored Cross-Site Scripting",
+            "fixed_in": "6.6.15",
+            "references": {
+              "cve": [
+                "2023-47772"
+              ],
+              "url": [
+                "https://www.wordfence.com/threat-intel/vulnerabilities/id/772e843b-00ea-45f5-b730-c9a793d4c2db"
+              ],
+              "wpvulndb": [
+                "3cde24f3-aaad-4eb3-b6ba-a518afe66fbe"
+              ]
+            }
+          },
+          {
+            "title": "Slider Revolution < 6.6.16 - Authenticated (Author+) Arbitrary File Upload",
+            "fixed_in": "6.6.16",
+            "references": {
+              "cve": [
+                "2023-47784"
+              ],
+              "url": [
+                "https://www.wordfence.com/threat-intel/vulnerabilities/id/e2d29afd-06e8-461a-918f-38228441a51a"
+              ],
+              "wpvulndb": [
+                "1b841a64-fb0a-434f-b7b4-0777f0480c87"
+              ]
+            }
+          },
+          {
+            "title": "Slider Revolution < 6.6.19 - Author+ Insecure Deserialization leading to RCE",
+            "fixed_in": "6.6.19",
+            "references": {
+              "cve": [
+                "2023-6528"
+              ],
+              "wpvulndb": [
+                "36ced447-84ea-4162-80d2-6df226cb53cb"
+              ]
+            }
+          },
+          {
+            "title": "Revslider < 6.7.0 - Authenticated (Author+) Stored Cross-Site Scripting",
+            "fixed_in": "6.7.0",
+            "references": {
+              "cve": [
+                "2024-2306"
+              ],
+              "url": [
+                "https://www.wordfence.com/threat-intel/vulnerabilities/id/f6af1e90-9bad-470b-9e00-137000c0450c"
+              ],
+              "wpvulndb": [
+                "8238962e-feca-4a45-b335-3c92e668c889"
+              ]
+            }
+          },
+          {
+            "title": "Slider Revolution < 6.7.8 - Authenticated (Author+) Stored Cross-Site Scripting via htmltag Parameter",
+            "fixed_in": "6.7.8",
+            "references": {
+              "cve": [
+                "2024-4092"
+              ],
+              "url": [
+                "https://www.wordfence.com/threat-intel/vulnerabilities/id/8437abcc-3e34-4a8a-bfe2-2ff7c9f41164"
+              ],
+              "wpvulndb": [
+                "50dd9668-c263-4bfd-8a94-00a3ad9f656d"
+              ]
+            }
+          },
+          {
+            "title": "Slider Revolution < 6.7.11 - Authenticated (Author+) Stored Cross-Site Scripting via Add Layer class, id, and title Attributes",
+            "fixed_in": "6.7.11",
+            "references": {
+              "cve": [
+                "2024-4581"
+              ],
+              "url": [
+                "https://www.wordfence.com/threat-intel/vulnerabilities/id/a99b8eb9-1511-4ec0-98f4-c0e0c989fa28"
+              ],
+              "wpvulndb": [
+                "4a436977-1295-40e8-9957-bda1b0a3e6d6"
+              ]
+            }
+          },
+          {
+            "title": "Slider Revolution < 6.7.11 - Authenticated (Contributor+) Stored Cross-Site Scripting via Elementor wrapperid and zindex",
+            "fixed_in": "6.7.11",
+            "references": {
+              "cve": [
+                "2024-4637"
+              ],
+              "url": [
+                "https://www.wordfence.com/threat-intel/vulnerabilities/id/457b5066-da37-4877-9abe-c912bc201f29"
+              ],
+              "wpvulndb": [
+                "32b1ee26-525a-4b1e-bdf0-881f0d161788"
+              ]
+            }
+          },
+          {
+            "title": "Slider Revolution < 6.7.0 - Missing Authorization",
+            "fixed_in": "6.7.0",
+            "references": {
+              "cve": [
+                "2024-34444"
+              ],
+              "url": [
+                "https://www.wordfence.com/threat-intel/vulnerabilities/id/14feb451-2ece-467b-abf0-7abac26e40c1"
+              ],
+              "wpvulndb": [
+                "f893fd2d-d040-408a-a800-99bf02e32230"
+              ]
+            }
+          },
+          {
+            "title": "Slider Revolution < 6.7.11 - Authenticated (Author+) Stored Cross-Site Scripting",
+            "fixed_in": "6.7.11",
+            "references": {
+              "cve": [
+                "2024-34443"
+              ],
+              "url": [
+                "https://www.wordfence.com/threat-intel/vulnerabilities/id/64852bc8-aeba-458d-9235-94bd4c4ec429"
+              ],
+              "wpvulndb": [
+                "f79b835f-a3a2-40e1-91cc-987604b0a593"
+              ]
+            }
+          },
+          {
+            "title": "Slider Revolution < 6.7.14 - Authenticated (Administrator+) Stored Cross-Site Scripting",
+            "fixed_in": "6.7.14",
+            "references": {
+              "cve": [
+                "2024-37449"
+              ],
+              "url": [
+                "https://www.wordfence.com/threat-intel/vulnerabilities/id/8a8fc6a5-a28a-4d6b-8d63-c5e2f4d26422"
+              ],
+              "wpvulndb": [
+                "6d7c04cb-b3c1-4003-866b-a3301929e2aa"
+              ]
+            }
+          },
+          {
+            "title": "Slider Revolution < 6.7.19 - Authenticated (Author+) Stored Cross-Site Scripting via SVG File Upload",
+            "fixed_in": "6.7.19",
+            "references": {
+              "cve": [
+                "2024-8107"
+              ],
+              "url": [
+                "https://www.wordfence.com/threat-intel/vulnerabilities/id/22b59b36-ba47-4c10-8f43-a29ae3b9d446"
+              ],
+              "wpvulndb": [
+                "278e6259-cb64-4cc1-91c6-2cf2178dd1d0"
+              ]
+            }
+          }
+        ],
+        "version": {
+          "number": "5.4.8.1",
+          "confidence": 100,
+          "found_by": "Comment (Passive Detection)",
+          "interesting_entries": [
+            "https://pec.paavai.edu.in/, Match: 'START REVOLUTION SLIDER 5.4.8.1'"
+          ],
+          "confirmed_by": {
+            "Div Data Version (Passive Detection)": {
+              "confidence": 60,
+              "interesting_entries": [
+                "https://pec.paavai.edu.in/, Match: '5.4.8.1'"
+              ]
+            }
+          }
+        }
+      },
+      "w3-total-cache": {
+        "slug": "w3-total-cache",
+        "location": "https://pec.paavai.edu.in/wp-content/plugins/w3-total-cache/",
+        "latest_version": "2.8.8",
+        "last_updated": "2025-04-14T23:36:00.000Z",
+        "outdated": true,
+        "readme_url": null,
+        "directory_listing": null,
+        "error_log_url": null,
+        "found_by": "Comment Debug Info (Passive Detection)",
+        "confidence": 30,
+        "interesting_entries": [],
+        "confirmed_by": {},
+        "vulnerabilities": [
+          {
+            "title": "W3 Total Cache < 2.7.6 - Sensitive Credentials Stored in Plaintext",
+            "fixed_in": "2.7.6",
+            "references": {
+              "cve": [
+                "2023-5359"
+              ],
+              "url": [
+                "https://www.wordfence.com/threat-intel/vulnerabilities/id/2d89a534-978e-4fd8-be3a-5137bdc22dc9"
+              ],
+              "wpvulndb": [
+                "fa72da03-fab6-4f28-976a-a6f8f31e3a30"
+              ]
+            }
+          },
+          {
+            "title": "W3 Total Cache < 2.8.2 - Subscriber+ Server-Side Request Forgery",
+            "fixed_in": "2.8.2",
+            "references": {
+              "cve": [
+                "2024-12365"
+              ],
+              "url": [
+                "https://www.wordfence.com/threat-intel/vulnerabilities/id/196e629f-7c77-4bcb-8224-305a0108b630"
+              ],
+              "wpvulndb": [
+                "9172426f-8038-41e0-a9aa-4d0a24670bff"
+              ]
+            }
+          },
+          {
+            "title": "W3 Total Cache < 2.8.2 - Information Exposure via Log Files",
+            "fixed_in": "2.8.2",
+            "references": {
+              "cve": [
+                "2024-12008"
+              ],
+              "url": [
+                "https://www.wordfence.com/threat-intel/vulnerabilities/id/8292f23c-fb17-4082-9788-f643d1bb097e"
+              ],
+              "wpvulndb": [
+                "1685ca58-1622-433b-b561-304cb9d1bc56"
+              ]
+            }
+          },
+          {
+            "title": "W3 Total Cache < 2.8.2 - Unauthenticated Plugin Deactivation and Extensions Activation/Deactivation",
+            "fixed_in": "2.8.2",
+            "references": {
+              "cve": [
+                "2024-12006"
+              ],
+              "url": [
+                "https://www.wordfence.com/threat-intel/vulnerabilities/id/329ad5dc-9339-4540-aba3-f21a78a74d4b"
+              ],
+              "wpvulndb": [
+                "55419227-e2cd-4794-b058-79813b133be3"
+              ]
+            }
+          }
+        ],
+        "version": {
+          "number": "2.7.1",
+          "confidence": 100,
+          "found_by": "Readme - Stable Tag (Aggressive Detection)",
+          "interesting_entries": [
+            "https://pec.paavai.edu.in/wp-content/plugins/w3-total-cache/readme.txt"
+          ],
+          "confirmed_by": {
+            "Readme - ChangeLog Section (Aggressive Detection)": {
+              "confidence": 50,
+              "interesting_entries": [
+                "https://pec.paavai.edu.in/wp-content/plugins/w3-total-cache/readme.txt"
+              ]
+            }
+          }
+        }
+      },
+      "wp-performance-score-booster": {
+        "slug": "wp-performance-score-booster",
+        "location": "https://pec.paavai.edu.in/wp-content/plugins/wp-performance-score-booster/",
+        "latest_version": "2.2.3",
+        "last_updated": "2025-02-17T14:09:00.000Z",
+        "outdated": true,
+        "readme_url": null,
+        "directory_listing": null,
+        "error_log_url": null,
+        "found_by": "Comment (Passive Detection)",
+        "confidence": 30,
+        "interesting_entries": [],
+        "confirmed_by": {},
+        "vulnerabilities": [],
+        "version": {
+          "number": "2.2.1",
+          "confidence": 100,
+          "found_by": "Comment (Passive Detection)",
+          "interesting_entries": [
+            "https://pec.paavai.edu.in/, Match: 'by WP Performance Score Booster plugin v2.2.1'"
+          ],
+          "confirmed_by": {
+            "Readme - Stable Tag (Aggressive Detection)": {
+              "confidence": 80,
+              "interesting_entries": [
+                "https://pec.paavai.edu.in/wp-content/plugins/wp-performance-score-booster/readme.txt"
+              ]
+            },
+            "Readme - ChangeLog Section (Aggressive Detection)": {
+              "confidence": 50,
+              "interesting_entries": [
+                "https://pec.paavai.edu.in/wp-content/plugins/wp-performance-score-booster/readme.txt"
+              ]
+            }
+          }
+        }
+      }
+    },
+    "vuln_api": {
+      "plan": "free",
+      "requests_done_during_scan": 9,
+      "requests_remaining": 7
+    },
+    "stop_time": 1745215504,
+    "elapsed": 155,
+    "requests_done": 124,
+    "cached_requests": 5,
+    "data_sent": 28573,
+    "data_sent_humanised": "27.903 KB",
+    "data_received": 4639684,
+    "data_received_humanised": "4.425 MB",
+    "used_memory": 294932480,
+    "used_memory_humanised": "281.27 MB",
+    "scan_aborted": "The number of themes detected reached the threshold of 20 which might indicate False Positive. It would be recommended to use the --exclude-content-based option to ignore the bad responses."
+  },
+  "fallback_info": {}
+}

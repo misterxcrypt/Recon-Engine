@@ -1,0 +1,55 @@
+{
+  "target": "saptanglabs.com",
+  "open_ports": [
+    22,
+    443,
+    2000,
+    5060
+  ],
+  "http_tech": {
+    "443": {
+      "status_code": 200,
+      "title": "Saptang Labs",
+      "server": null,
+      "tech": [
+        "Caddy",
+        "HTTP/3",
+        "Next.js",
+        "Node.js",
+        "React",
+        "Webpack"
+      ]
+    }
+  },
+  "services": [
+    {
+      "port": 22,
+      "service": "ssh",
+      "product": "",
+      "version": "",
+      "extrainfo": ""
+    },
+    {
+      "port": 443,
+      "service": "https",
+      "product": "",
+      "version": "",
+      "extrainfo": ""
+    },
+    {
+      "port": 2000,
+      "service": "cisco-sccp",
+      "product": "",
+      "version": "",
+      "extrainfo": ""
+    },
+    {
+      "port": 5060,
+      "service": "sip",
+      "product": "",
+      "version": "",
+      "extrainfo": ""
+    }
+  ],
+  "os": {}
+}

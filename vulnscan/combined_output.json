@@ -1,0 +1,238 @@
+{
+    "nuclei": [
+        [
+            {
+                "template-id": "fingerprinthub-web-fingerprints",
+                "template-path": "/root/nuclei-templates/http/technologies/fingerprinthub-web-fingerprints.yaml",
+                "info": {
+                    "name": "FingerprintHub Technology Fingerprint",
+                    "author": [
+                        "pdteam",
+                        "righettod"
+                    ],
+                    "tags": [
+                        "tech"
+                    ],
+                    "description": "FingerprintHub Technology Fingerprint tests run in nuclei.",
+                    "reference": [
+                        "https://github.com/0x727/FingerprintHub"
+                    ],
+                    "severity": "info",
+                    "metadata": {
+                        "max-request": 1
+                    },
+                    "classification": {
+                        "cve-id": null,
+                        "cwe-id": [
+                            "cwe-200"
+                        ]
+                    }
+                },
+                "matcher-name": "apilayer-caddy",
+                "type": "http",
+                "host": "sarvagya.saptanglabs.com",
+                "port": "443",
+                "scheme": "https",
+                "url": "https://sarvagya.saptanglabs.com",
+                "matched-at": "https://sarvagya.saptanglabs.com",
+                "request": "GET / HTTP/1.1\r\nHost: sarvagya.saptanglabs.com\r\nUser-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.2.21\r\nConnection: close\r\nAccept: */*\r\nAccept-Language: en\r\nAccept-Encoding: gzip\r\n\r\n",
+                "response": "HTTP/1.1 200 OK\r\nConnection: close\r\nTransfer-Encoding: chunked\r\nAlt-Svc: h3=\":443\"; ma=2592000\r\nContent-Type: text/html; charset=utf-8\r\nDate: Thu, 24 Apr 2025 07:16:52 GMT\r\nEtag: \"o3vt059f7o29y\"\r\nServer: Caddy\r\nVary: Accept-Encoding\r\nX-Powered-By: Next.js\r\n\r\n<!DOCTYPE html><html><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width\"/><title>Sarvagya</title><meta name=\"next-head-count\" content=\"3\"/><link data-next-font=\"\" rel=\"preconnect\" href=\"/\" crossorigin=\"anonymous\"/><link rel=\"preload\" href=\"/_next/static/css/e4ffcf278ab74219.css\" as=\"style\"/><link rel=\"stylesheet\" href=\"/_next/static/css/e4ffcf278ab74219.css\" data-n-g=\"\"/><link rel=\"preload\" href=\"/_next/static/css/f1f2cbd6aecc8b94.css\" as=\"style\"/><link rel=\"stylesheet\" href=\"/_next/static/css/f1f2cbd6aecc8b94.css\" data-n-p=\"\"/><noscript data-n-css=\"\"></noscript><script defer=\"\" nomodule=\"\" src=\"/_next/static/chunks/polyfills-78c92fac7aa8fdd8.js\"></script><script src=\"/_next/static/chunks/webpack-4da3328a213d5d0f.js\" defer=\"\"></script><script src=\"/_next/static/chunks/framework-ce84985cd166733a.js\" defer=\"\"></script><script src=\"/_next/static/chunks/main-7828853baa8ec358.js\" defer=\"\"></script><script src=\"/_next/static/chunks/pages/_app-87db00688d684077.js\" defer=\"\"></script><script src=\"/_next/static/chunks/pages/index-12bad082182305e4.js\" defer=\"\"></script><script src=\"/_next/static/lxpU1CQLXp8io2_0HHZiU/_buildManifest.js\" defer=\"\"></script><script src=\"/_next/static/lxpU1CQLXp8io2_0HHZiU/_ssgManifest.js\" defer=\"\"></script></head><body><div id=\"__next\"><main class=\"AuthLayout_main__r1Gnp\"><div class=\"login_loginContainer__5cjQZ\"><div class=\"login_left__ITVjl\"><img class=\"login_backgroundImage__GcB4B\" src=\"/background.jpg\"/></div><div class=\"login_right__gEqpK\"><div class=\"login_brand-section__4WFbS\"><img src=\"/sarvagyaLogo.png\" alt=\"\"/><p>Sarvagya</p></div><div class=\"login_loginCard__IU6lZ\"> <h3>Welcome back!</h3><p class=\"login_desc__hHa2X\">Please enter login details below</p><form><label for=\"email\">Email/Username</label><div class=\"w-full \"><input type=\"text\" id=\"email\" class=\"w-full\" placeholder=\"Enter Email/Username\" autoComplete=\"email\"/></div><label for=\"password\">Password</label><div class=\"flex w-full relative  items-center\"><input class=\"h-full w-full\" type=\"password\" id=\"password\" placeholder=\"Enter Password\" password=\"current-password\"/><div class=\"h-full flex absolute right-3\"><label class=\"\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-eye cursor-pointer\" id=\"show\"><path d=\"M2 12s3-7 10-7 10 7 10 7-3 7-10 7-10-7-10-7Z\"></path><circle cx=\"12\" cy=\"12\" r=\"3\"></circle></svg></label></div></div><p class=\"text-gray-600 underline  cursor-pointer mt-4 hover:text-blue-600 transition-colors\">Forgot password?</p><button><span>Login</span></button></form></div> </div></div></main></div><script id=\"__NEXT_DATA__\" type=\"application/json\">{\"props\":{\"pageProps\":{}},\"page\":\"/\",\"query\":{},\"buildId\":\"lxpU1CQLXp8io2_0HHZiU\",\"nextExport\":true,\"autoExport\":true,\"isFallback\":false,\"scriptLoader\":[]}</script></body></html>",
+                "ip": "3.110.103.45",
+                "timestamp": "2025-04-24T12:46:52.994307912+05:30",
+                "curl-command": "curl -X 'GET' -H 'Accept: */*' -H 'Accept-Language: en' -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.2.21' 'https://sarvagya.saptanglabs.com'",
+                "matcher-status": true
+            },
+            {
+                "template-id": "tech-detect",
+                "template-path": "/root/nuclei-templates/http/technologies/tech-detect.yaml",
+                "info": {
+                    "name": "Wappalyzer Technology Detection",
+                    "author": [
+                        "hakluke",
+                        "righettod"
+                    ],
+                    "tags": [
+                        "tech"
+                    ],
+                    "severity": "info",
+                    "metadata": {
+                        "max-request": 1
+                    }
+                },
+                "matcher-name": "caddy",
+                "type": "http",
+                "host": "sarvagya.saptanglabs.com",
+                "port": "443",
+                "scheme": "https",
+                "url": "https://sarvagya.saptanglabs.com",
+                "matched-at": "https://sarvagya.saptanglabs.com",
+                "request": "GET / HTTP/1.1\r\nHost: sarvagya.saptanglabs.com\r\nUser-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.2.21\r\nConnection: close\r\nAccept: */*\r\nAccept-Language: en\r\nAccept-Encoding: gzip\r\n\r\n",
+                "response": "HTTP/1.1 200 OK\r\nConnection: close\r\nTransfer-Encoding: chunked\r\nAlt-Svc: h3=\":443\"; ma=2592000\r\nContent-Type: text/html; charset=utf-8\r\nDate: Thu, 24 Apr 2025 07:16:52 GMT\r\nEtag: \"o3vt059f7o29y\"\r\nServer: Caddy\r\nVary: Accept-Encoding\r\nX-Powered-By: Next.js\r\n\r\n<!DOCTYPE html><html><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width\"/><title>Sarvagya</title><meta name=\"next-head-count\" content=\"3\"/><link data-next-font=\"\" rel=\"preconnect\" href=\"/\" crossorigin=\"anonymous\"/><link rel=\"preload\" href=\"/_next/static/css/e4ffcf278ab74219.css\" as=\"style\"/><link rel=\"stylesheet\" href=\"/_next/static/css/e4ffcf278ab74219.css\" data-n-g=\"\"/><link rel=\"preload\" href=\"/_next/static/css/f1f2cbd6aecc8b94.css\" as=\"style\"/><link rel=\"stylesheet\" href=\"/_next/static/css/f1f2cbd6aecc8b94.css\" data-n-p=\"\"/><noscript data-n-css=\"\"></noscript><script defer=\"\" nomodule=\"\" src=\"/_next/static/chunks/polyfills-78c92fac7aa8fdd8.js\"></script><script src=\"/_next/static/chunks/webpack-4da3328a213d5d0f.js\" defer=\"\"></script><script src=\"/_next/static/chunks/framework-ce84985cd166733a.js\" defer=\"\"></script><script src=\"/_next/static/chunks/main-7828853baa8ec358.js\" defer=\"\"></script><script src=\"/_next/static/chunks/pages/_app-87db00688d684077.js\" defer=\"\"></script><script src=\"/_next/static/chunks/pages/index-12bad082182305e4.js\" defer=\"\"></script><script src=\"/_next/static/lxpU1CQLXp8io2_0HHZiU/_buildManifest.js\" defer=\"\"></script><script src=\"/_next/static/lxpU1CQLXp8io2_0HHZiU/_ssgManifest.js\" defer=\"\"></script></head><body><div id=\"__next\"><main class=\"AuthLayout_main__r1Gnp\"><div class=\"login_loginContainer__5cjQZ\"><div class=\"login_left__ITVjl\"><img class=\"login_backgroundImage__GcB4B\" src=\"/background.jpg\"/></div><div class=\"login_right__gEqpK\"><div class=\"login_brand-section__4WFbS\"><img src=\"/sarvagyaLogo.png\" alt=\"\"/><p>Sarvagya</p></div><div class=\"login_loginCard__IU6lZ\"> <h3>Welcome back!</h3><p class=\"login_desc__hHa2X\">Please enter login details below</p><form><label for=\"email\">Email/Username</label><div class=\"w-full \"><input type=\"text\" id=\"email\" class=\"w-full\" placeholder=\"Enter Email/Username\" autoComplete=\"email\"/></div><label for=\"password\">Password</label><div class=\"flex w-full relative  items-center\"><input class=\"h-full w-full\" type=\"password\" id=\"password\" placeholder=\"Enter Password\" password=\"current-password\"/><div class=\"h-full flex absolute right-3\"><label class=\"\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-eye cursor-pointer\" id=\"show\"><path d=\"M2 12s3-7 10-7 10 7 10 7-3 7-10 7-10-7-10-7Z\"></path><circle cx=\"12\" cy=\"12\" r=\"3\"></circle></svg></label></div></div><p class=\"text-gray-600 underline  cursor-pointer mt-4 hover:text-blue-600 transition-colors\">Forgot password?</p><button><span>Login</span></button></form></div> </div></div></main></div><script id=\"__NEXT_DATA__\" type=\"application/json\">{\"props\":{\"pageProps\":{}},\"page\":\"/\",\"query\":{},\"buildId\":\"lxpU1CQLXp8io2_0HHZiU\",\"nextExport\":true,\"autoExport\":true,\"isFallback\":false,\"scriptLoader\":[]}</script></body></html>",
+                "ip": "3.110.103.45",
+                "timestamp": "2025-04-24T12:46:53.00481897+05:30",
+                "curl-command": "curl -X 'GET' -H 'Accept: */*' -H 'Accept-Language: en' -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.2.21' 'https://sarvagya.saptanglabs.com'",
+                "matcher-status": true
+            },
+            {
+                "template-id": "tech-detect",
+                "template-path": "/root/nuclei-templates/http/technologies/tech-detect.yaml",
+                "info": {
+                    "name": "Wappalyzer Technology Detection",
+                    "author": [
+                        "hakluke",
+                        "righettod"
+                    ],
+                    "tags": [
+                        "tech"
+                    ],
+                    "severity": "info",
+                    "metadata": {
+                        "max-request": 1
+                    }
+                },
+                "matcher-name": "next.js",
+                "type": "http",
+                "host": "sarvagya.saptanglabs.com",
+                "port": "443",
+                "scheme": "https",
+                "url": "https://sarvagya.saptanglabs.com",
+                "matched-at": "https://sarvagya.saptanglabs.com",
+                "request": "GET / HTTP/1.1\r\nHost: sarvagya.saptanglabs.com\r\nUser-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.2.21\r\nConnection: close\r\nAccept: */*\r\nAccept-Language: en\r\nAccept-Encoding: gzip\r\n\r\n",
+                "response": "HTTP/1.1 200 OK\r\nConnection: close\r\nTransfer-Encoding: chunked\r\nAlt-Svc: h3=\":443\"; ma=2592000\r\nContent-Type: text/html; charset=utf-8\r\nDate: Thu, 24 Apr 2025 07:16:52 GMT\r\nEtag: \"o3vt059f7o29y\"\r\nServer: Caddy\r\nVary: Accept-Encoding\r\nX-Powered-By: Next.js\r\n\r\n<!DOCTYPE html><html><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width\"/><title>Sarvagya</title><meta name=\"next-head-count\" content=\"3\"/><link data-next-font=\"\" rel=\"preconnect\" href=\"/\" crossorigin=\"anonymous\"/><link rel=\"preload\" href=\"/_next/static/css/e4ffcf278ab74219.css\" as=\"style\"/><link rel=\"stylesheet\" href=\"/_next/static/css/e4ffcf278ab74219.css\" data-n-g=\"\"/><link rel=\"preload\" href=\"/_next/static/css/f1f2cbd6aecc8b94.css\" as=\"style\"/><link rel=\"stylesheet\" href=\"/_next/static/css/f1f2cbd6aecc8b94.css\" data-n-p=\"\"/><noscript data-n-css=\"\"></noscript><script defer=\"\" nomodule=\"\" src=\"/_next/static/chunks/polyfills-78c92fac7aa8fdd8.js\"></script><script src=\"/_next/static/chunks/webpack-4da3328a213d5d0f.js\" defer=\"\"></script><script src=\"/_next/static/chunks/framework-ce84985cd166733a.js\" defer=\"\"></script><script src=\"/_next/static/chunks/main-7828853baa8ec358.js\" defer=\"\"></script><script src=\"/_next/static/chunks/pages/_app-87db00688d684077.js\" defer=\"\"></script><script src=\"/_next/static/chunks/pages/index-12bad082182305e4.js\" defer=\"\"></script><script src=\"/_next/static/lxpU1CQLXp8io2_0HHZiU/_buildManifest.js\" defer=\"\"></script><script src=\"/_next/static/lxpU1CQLXp8io2_0HHZiU/_ssgManifest.js\" defer=\"\"></script></head><body><div id=\"__next\"><main class=\"AuthLayout_main__r1Gnp\"><div class=\"login_loginContainer__5cjQZ\"><div class=\"login_left__ITVjl\"><img class=\"login_backgroundImage__GcB4B\" src=\"/background.jpg\"/></div><div class=\"login_right__gEqpK\"><div class=\"login_brand-section__4WFbS\"><img src=\"/sarvagyaLogo.png\" alt=\"\"/><p>Sarvagya</p></div><div class=\"login_loginCard__IU6lZ\"> <h3>Welcome back!</h3><p class=\"login_desc__hHa2X\">Please enter login details below</p><form><label for=\"email\">Email/Username</label><div class=\"w-full \"><input type=\"text\" id=\"email\" class=\"w-full\" placeholder=\"Enter Email/Username\" autoComplete=\"email\"/></div><label for=\"password\">Password</label><div class=\"flex w-full relative  items-center\"><input class=\"h-full w-full\" type=\"password\" id=\"password\" placeholder=\"Enter Password\" password=\"current-password\"/><div class=\"h-full flex absolute right-3\"><label class=\"\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-eye cursor-pointer\" id=\"show\"><path d=\"M2 12s3-7 10-7 10 7 10 7-3 7-10 7-10-7-10-7Z\"></path><circle cx=\"12\" cy=\"12\" r=\"3\"></circle></svg></label></div></div><p class=\"text-gray-600 underline  cursor-pointer mt-4 hover:text-blue-600 transition-colors\">Forgot password?</p><button><span>Login</span></button></form></div> </div></div></main></div><script id=\"__NEXT_DATA__\" type=\"application/json\">{\"props\":{\"pageProps\":{}},\"page\":\"/\",\"query\":{},\"buildId\":\"lxpU1CQLXp8io2_0HHZiU\",\"nextExport\":true,\"autoExport\":true,\"isFallback\":false,\"scriptLoader\":[]}</script></body></html>",
+                "ip": "3.110.103.45",
+                "timestamp": "2025-04-24T12:46:53.00482391+05:30",
+                "curl-command": "curl -X 'GET' -H 'Accept: */*' -H 'Accept-Language: en' -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.2.21' 'https://sarvagya.saptanglabs.com'",
+                "matcher-status": true
+            },
+            {
+                "template-id": "form-detection",
+                "template-path": "/root/nuclei-templates/http/miscellaneous/form-detection.yaml",
+                "info": {
+                    "name": "Form Detection",
+                    "author": [
+                        "pdteam"
+                    ],
+                    "tags": [
+                        "form",
+                        "misc",
+                        "miscellaneous"
+                    ],
+                    "description": "A template to detect HTML Forms in page response.\n",
+                    "reference": [
+                        "https://github.com/dirtycoder0124/formcrawler"
+                    ],
+                    "severity": "info",
+                    "metadata": {
+                        "max-request": 1
+                    }
+                },
+                "type": "http",
+                "host": "sarvagya.saptanglabs.com",
+                "port": "443",
+                "scheme": "https",
+                "url": "https://sarvagya.saptanglabs.com",
+                "matched-at": "https://sarvagya.saptanglabs.com",
+                "request": "GET / HTTP/1.1\r\nHost: sarvagya.saptanglabs.com\r\nUser-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 11_6_6; de) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.2 Safari/605.1.15\r\nConnection: close\r\nAccept: */*\r\nAccept-Language: en\r\nAccept-Encoding: gzip\r\n\r\n",
+                "response": "HTTP/1.1 200 OK\r\nConnection: close\r\nTransfer-Encoding: chunked\r\nAlt-Svc: h3=\":443\"; ma=2592000\r\nContent-Type: text/html; charset=utf-8\r\nDate: Thu, 24 Apr 2025 07:16:56 GMT\r\nEtag: \"o3vt059f7o29y\"\r\nServer: Caddy\r\nVary: Accept-Encoding\r\nX-Powered-By: Next.js\r\n\r\n<!DOCTYPE html><html><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width\"/><title>Sarvagya</title><meta name=\"next-head-count\" content=\"3\"/><link data-next-font=\"\" rel=\"preconnect\" href=\"/\" crossorigin=\"anonymous\"/><link rel=\"preload\" href=\"/_next/static/css/e4ffcf278ab74219.css\" as=\"style\"/><link rel=\"stylesheet\" href=\"/_next/static/css/e4ffcf278ab74219.css\" data-n-g=\"\"/><link rel=\"preload\" href=\"/_next/static/css/f1f2cbd6aecc8b94.css\" as=\"style\"/><link rel=\"stylesheet\" href=\"/_next/static/css/f1f2cbd6aecc8b94.css\" data-n-p=\"\"/><noscript data-n-css=\"\"></noscript><script defer=\"\" nomodule=\"\" src=\"/_next/static/chunks/polyfills-78c92fac7aa8fdd8.js\"></script><script src=\"/_next/static/chunks/webpack-4da3328a213d5d0f.js\" defer=\"\"></script><script src=\"/_next/static/chunks/framework-ce84985cd166733a.js\" defer=\"\"></script><script src=\"/_next/static/chunks/main-7828853baa8ec358.js\" defer=\"\"></script><script src=\"/_next/static/chunks/pages/_app-87db00688d684077.js\" defer=\"\"></script><script src=\"/_next/static/chunks/pages/index-12bad082182305e4.js\" defer=\"\"></script><script src=\"/_next/static/lxpU1CQLXp8io2_0HHZiU/_buildManifest.js\" defer=\"\"></script><script src=\"/_next/static/lxpU1CQLXp8io2_0HHZiU/_ssgManifest.js\" defer=\"\"></script></head><body><div id=\"__next\"><main class=\"AuthLayout_main__r1Gnp\"><div class=\"login_loginContainer__5cjQZ\"><div class=\"login_left__ITVjl\"><img class=\"login_backgroundImage__GcB4B\" src=\"/background.jpg\"/></div><div class=\"login_right__gEqpK\"><div class=\"login_brand-section__4WFbS\"><img src=\"/sarvagyaLogo.png\" alt=\"\"/><p>Sarvagya</p></div><div class=\"login_loginCard__IU6lZ\"> <h3>Welcome back!</h3><p class=\"login_desc__hHa2X\">Please enter login details below</p><form><label for=\"email\">Email/Username</label><div class=\"w-full \"><input type=\"text\" id=\"email\" class=\"w-full\" placeholder=\"Enter Email/Username\" autoComplete=\"email\"/></div><label for=\"password\">Password</label><div class=\"flex w-full relative  items-center\"><input class=\"h-full w-full\" type=\"password\" id=\"password\" placeholder=\"Enter Password\" password=\"current-password\"/><div class=\"h-full flex absolute right-3\"><label class=\"\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-eye cursor-pointer\" id=\"show\"><path d=\"M2 12s3-7 10-7 10 7 10 7-3 7-10 7-10-7-10-7Z\"></path><circle cx=\"12\" cy=\"12\" r=\"3\"></circle></svg></label></div></div><p class=\"text-gray-600 underline  cursor-pointer mt-4 hover:text-blue-600 transition-colors\">Forgot password?</p><button><span>Login</span></button></form></div> </div></div></main></div><script id=\"__NEXT_DATA__\" type=\"application/json\">{\"props\":{\"pageProps\":{}},\"page\":\"/\",\"query\":{},\"buildId\":\"lxpU1CQLXp8io2_0HHZiU\",\"nextExport\":true,\"autoExport\":true,\"isFallback\":false,\"scriptLoader\":[]}</script></body></html>",
+                "ip": "3.110.103.45",
+                "timestamp": "2025-04-24T12:46:56.103975729+05:30",
+                "curl-command": "curl -X 'GET' -H 'Accept: */*' -H 'Accept-Language: en' -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 11_6_6; de) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.2 Safari/605.1.15' 'https://sarvagya.saptanglabs.com'",
+                "matcher-status": true
+            },
+            {
+                "template-id": "caa-fingerprint",
+                "template-path": "/root/nuclei-templates/dns/caa-fingerprint.yaml",
+                "info": {
+                    "name": "CAA Record",
+                    "author": [
+                        "pdteam"
+                    ],
+                    "tags": [
+                        "dns",
+                        "caa"
+                    ],
+                    "description": "A CAA record was discovered. A CAA record is used to specify which certificate authorities (CAs) are allowed to issue certificates for a domain.",
+                    "reference": [
+                        "https://support.dnsimple.com/articles/caa-record/#whats-a-caa-record"
+                    ],
+                    "severity": "info",
+                    "metadata": {
+                        "max-request": 1
+                    },
+                    "classification": {
+                        "cve-id": null,
+                        "cwe-id": [
+                            "cwe-200"
+                        ]
+                    }
+                },
+                "type": "dns",
+                "host": "sarvagya.saptanglabs.com",
+                "matched-at": "sarvagya.saptanglabs.com",
+                "request": ";; opcode: QUERY, status: NOERROR, id: 15411\n;; flags: rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1\n\n;; OPT PSEUDOSECTION:\n; EDNS: version 0; flags:; udp: 4096\n\n;; QUESTION SECTION:\n;sarvagya.saptanglabs.com.\tIN\t CAA\n",
+                "response": ";; opcode: QUERY, status: NOERROR, id: 15411\n;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1\n\n;; OPT PSEUDOSECTION:\n; EDNS: version 0; flags:; udp: 512\n\n;; QUESTION SECTION:\n;sarvagya.saptanglabs.com.\tIN\t CAA\n\n;; AUTHORITY SECTION:\nsaptanglabs.com.\t600\tIN\tSOA\tns25.domaincontrol.com. dns.jomax.net. 2025040900 28800 7200 604800 600\n",
+                "timestamp": "2025-04-24T12:47:13.147548694+05:30",
+                "matcher-status": true
+            },
+            {
+                "template-id": "ssl-issuer",
+                "template-path": "/root/nuclei-templates/ssl/detect-ssl-issuer.yaml",
+                "info": {
+                    "name": "Detect SSL Certificate Issuer",
+                    "author": [
+                        "lingtren"
+                    ],
+                    "tags": [
+                        "ssl",
+                        "tls"
+                    ],
+                    "description": "Extract the issuer's organization from the target's certificate. Issuers are entities which sign and distribute certificates.\n",
+                    "severity": "info",
+                    "metadata": {
+                        "max-request": 1
+                    }
+                },
+                "type": "ssl",
+                "host": "sarvagya.saptanglabs.com",
+                "port": "443",
+                "matched-at": "sarvagya.saptanglabs.com:443",
+                "extracted-results": [
+                    "Let's Encrypt"
+                ],
+                "ip": "3.110.103.45",
+                "timestamp": "2025-04-24T12:47:13.802469255+05:30",
+                "matcher-status": true
+            },
+            {
+                "template-id": "ssl-dns-names",
+                "template-path": "/root/nuclei-templates/ssl/ssl-dns-names.yaml",
+                "info": {
+                    "name": "SSL DNS Names",
+                    "author": [
+                        "pdteam"
+                    ],
+                    "tags": [
+                        "ssl",
+                        "tls"
+                    ],
+                    "description": "Extract the Subject Alternative Name (SAN) from the target's certificate. SAN facilitates the usage of additional hostnames with the same certificate.\n",
+                    "severity": "info",
+                    "metadata": {
+                        "max-request": 1
+                    }
+                },
+                "type": "ssl",
+                "host": "sarvagya.saptanglabs.com",
+                "port": "443",
+                "matched-at": "sarvagya.saptanglabs.com:443",
+                "extracted-results": [
+                    "sarvagya.saptanglabs.com"
+                ],
+                "ip": "3.110.103.45",
+                "timestamp": "2025-04-24T12:47:13.802639055+05:30",
+                "matcher-status": true
+            }
+        ]
+    ],
+    "nikto": {}
+}

@@ -1,0 +1,12 @@
+{
+    "x8_results": [
+        {
+            "method": "GET",
+            "url": "https://saptanglabs.com/",
+            "status": 200,
+            "size": 30238,
+            "found_params": [],
+            "injection_place": "Path"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+[
+    {
+    "SourceMetadata": {
+        "Data": {
+            "Github": {
+                "link": "https://github.com/ragunandhant/sece/blob/93f0127830c068d813762fe3f55f7c7462e0a5c3/.env#L1",
+                "repository": "https://github.com/ragunandhant/sece.git",
+                "commit": "93f0127830c068d813762fe3f55f7c7462e0a5c3",
+                "email": "sree-ragu \u003craja.g2020cse@sece.ac.in\u003e",
+                "file": ".env",
+                "timestamp": "2024-08-29 15:58:53 +0000",
+                "line": 1
+            }
+        }
+    },
+    "SourceID": 1,
+    "SourceType": 7,
+    "SourceName": "trufflehog - github",
+    "DetectorType": 968,
+    "DetectorName": "Postgres",
+    "DetectorDescription": "Postgres connection string containing credentials",
+    "DecoderName": "PLAIN",
+    "Verified": true,
+    "VerificationFromCache": false,
+    "Raw": "postgresql://sece_owner:CnAyz2rYZS5v@ep-snowy-water-a1bnrpmk-pooler.ap-southeast-1.aws.neon.tech:5432",
+    "RawV2": "postgresql://sece_owner:CnAyz2rYZS5v@ep-snowy-water-a1bnrpmk-pooler.ap-southeast-1.aws.neon.tech:5432",
+    "Redacted": "",
+    "ExtraData": {
+        "sslmode": "require"
+    },
+    "StructuredData": null
+},
+{
+    "SourceMetadata": {
+        "Data": {
+            "Github": {
+                "link": "https://github.com/ragunandhant/sece/blob/93f0127830c068d813762fe3f55f7c7462e0a5c3/.env#L1",
+                "repository": "https://github.com/ragunandhant/sece.git",
+                "commit": "93f0127830c068d813762fe3f55f7c7462e0a5c3",
+                "email": "sree-ragu \u003craja.g2020cse@sece.ac.in\u003e",
+                "file": ".env",
+                "timestamp": "2024-08-29 15:58:53 +0000",
+                "line": 1
+            }
+        }
+    },
+    "SourceID": 1,
+    "SourceType": 7,
+    "SourceName": "trufflehog - github",
+    "DetectorType": 968,
+    "DetectorName": "Postgres",
+    "DetectorDescription": "Postgres connection string containing credentials",
+    "DecoderName": "PLAIN",
+    "Verified": true,
+    "VerificationFromCache": false,
+    "Raw": "postgresql://sece_owner:CnAyz2rYZS5v@ep-snowy-water-a1bnrpmk.ap-southeast-1.aws.neon.tech:5432",
+    "RawV2": "postgresql://sece_owner:CnAyz2rYZS5v@ep-snowy-water-a1bnrpmk.ap-southeast-1.aws.neon.tech:5432",
+    "Redacted": "",
+    "ExtraData": {
+        "sslmode": "require"
+    },
+    "StructuredData": null
+},
+{
+    "SourceMetadata": {
+        "Data": {
+            "Github": {
+                "link": "https://github.com/ragunandhant/sece/blob/93f0127830c068d813762fe3f55f7c7462e0a5c3/.env#L1",
+                "repository": "https://github.com/ragunandhant/sece.git",
+                "commit": "93f0127830c068d813762fe3f55f7c7462e0a5c3",
+                "email": "sree-ragu \u003craja.g2020cse@sece.ac.in\u003e",
+                "file": ".env",
+                "timestamp": "2024-08-29 15:58:53 +0000",
+                "line": 1
+            }
+        }
+    },
+    "SourceID": 1,
+    "SourceType": 7,
+    "SourceName": "trufflehog - github",
+    "DetectorType": 968,
+    "DetectorName": "Postgres",
+    "DetectorDescription": "Postgres connection string containing credentials",
+    "DecoderName": "PLAIN",
+    "Verified": false,
+    "VerificationError": "pq: SCRAM-SHA-256 error: server sent an invalid SCRAM-SHA-256 iteration count: \"i=1\"",
+    "VerificationFromCache": false,
+    "Raw": "postgresql://sece_owner:WuAs05EvPtiL@ep-purple-wave-a1h049gl.ap-southeast-1.aws.neon.tech:5432",
+    "RawV2": "postgresql://sece_owner:WuAs05EvPtiL@ep-purple-wave-a1h049gl.ap-southeast-1.aws.neon.tech:5432",
+    "Redacted": "",
+    "ExtraData": {
+        "sslmode": "require"
+    },
+    "StructuredData": null
+}
+]

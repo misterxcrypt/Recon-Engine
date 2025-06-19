@@ -1,0 +1,97 @@
+Whois
+	whois
+	whoxy
+Subdomain Enumeration-Active
+	FFUF
+	Cewl
+	GoSpider
+	Linkfinder
+	GetJS
+	PureDNS
+Subdomain Enumeration-Passive
+	Sublist3r
+	Subfinder
+	Findomain
+	Assetfinder
+	crt.sh
+	Knockpy
+	Oneforall
+Alive URL check
+	Httpx
+	Httprobe
+Technology Identification
+	BuiltWith
+	WhatWeb
+	Wappalyzer
+	Fingerprintx
+	Retire.js
+DNS
+	MxTools
+	Dig
+	ViewDNS
+	Mapcidr
+	Ipaddressguide
+	ASNLookup
+WAF
+	Wafw00f
+Port Scan
+	Nmap NSE
+	Nmap
+	Masscan
+	Rustscan
+	Naabu
+URL Discovery
+	GAU
+	Linx
+	URLgrab
+	GoSpider
+	Hakrawler
+	Waybackurls
+	Uncover
+Param Discovery
+	Arjun
+	Param Miner
+	X8
+	Parameth
+JS Discovery
+	JS Recon
+	JS Scan
+	Linkfinder
+	Secret Finder
+Directory Discovery
+	Dirb
+	FFUF
+	Wfuzz
+	Gobuster
+	Dirsearch
+CMS
+	WPScan
+	CMSmap
+	Joomscan
+OSINT
+	Maltego
+	Mosint
+	Recon-ng
+	SpiderFoot
+	TheHarvester
+Github
+	Githound
+	Gitdocker
+	Gitleaks
+	Trufflehog
+	Gitgrabber
+	Shhgit
+Cloud Assets
+	Lazy S3
+	S3 scanner
+	S3 bucket finder
+	AWS bucket dump
+	Cloudbrute
+Screenshots
+	Lazyshot
+	Aquatone
+	Eyewitness
+	Webshot
+Vulnerability Scan
+	Nuclei
+	Nikto

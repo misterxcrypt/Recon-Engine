@@ -1,0 +1,39 @@
+# whois
+whois target.com > whois.txt
+
+# Subdomain Enumeration-Active
+docker run -it --rm -v {$PWD}:/host ghcr.io/digininja/cewl https://saptanglabs.com -w cewl.txt
+ffuf -u https://FUZZ.saptanglabs.com/ -H "Host: FUZZ.saptanglabs.com" -w subdomains.txt -o output.json -of json
+cat output.json | jq .results[].url | sed 's/"//g' > ffuf_subs.txt
+rm output.json
+puredns bruteforce subdomains.txt saptanglabs.com -r resolvers.txt --write puredns_subs.txt
+
+# Subdomain Enumeration-Passive
+subfinder -d saptanglabs.com -silent > subfinder_subs.txt
+assetfinder --subs-only saptanglabs.com > assetfinder_subs.txt
+crt_v2.sh -d saptanglabs.com | grep 'saptanglabs' | grep -v 'Output saved' > crtsh_subs.txt
+knockpy -d saptanglabs.com --recon --bruteforce --silent
+cat saptanglabs.com_*.json | jq .[].domain | sed 's/"//g' > knock_subs.txt
+rm saptanglabs.com_*.json
+cat assetfinder_subs.txt crtsh_subs.txt knock_subs.txt subfinder_subs.txt ffuf_subs.txt puredns_subs.txt | sort -u | uniq > subs.txt
+
+Alive URL check
+httpx -l subs.txt -j > alive.json
+cat subs.txt | httprobe > probe.txt
+
+Technology Identification
+fingerprintx -t saptanglabs.com:443 --json | jq
+
+Port Scan
+naabu -host saptanglabs.com -json > naabu_scan.json
+rustscan -a saptanglabs.com 
+
+URL Discovery
+gau saptanglabs.com --json > gau_urls.json
+gospider -s "https://saptanglabs.com" --json --js --subs --sitemap --robots > gospider_urls.json
+echo https://saptanglabs.com | hakrawler -json -subs -u > hakrawler_urls.json
+
+
+
+
+

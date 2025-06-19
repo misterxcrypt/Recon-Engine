@@ -1,0 +1,54 @@
+{
+    "A_Records": [
+        "35.154.221.107"
+    ],
+    "NS_Records": [
+        "ns26.domaincontrol.com.",
+        "ns25.domaincontrol.com."
+    ],
+    "CNAME_Records": [],
+    "MX_Records": [
+        "10 alt4.aspmx.l.google.com.",
+        "1 aspmx.l.google.com.",
+        "5 alt1.aspmx.l.google.com.",
+        "10 alt3.aspmx.l.google.com.",
+        "5 alt2.aspmx.l.google.com."
+    ],
+    "PTR_Records": [],
+    "SOA_Records": [
+        "ns25.domaincontrol.com. dns.jomax.net. 2025040900 28800 7200 604800 600"
+    ],
+    "SRV_Records": [],
+    "TXT_Records": [
+        "\"google-site-verification=bQmGGHYLzvgUlEpNmNX76rEm9sZ93ihSLpAu6cKvGFY\"",
+        "\"v=spf1 include:dc-aa8e722993._spfm.saptanglabs.com ~all\""
+    ],
+    "SPF_Records": [
+        "[spf record] \"v=spf1 include:dc-aa8e722993._spfm.saptanglabs.com ~all\""
+    ],
+    "DMARC_Records": [],
+    "DKIM_Records": [],
+    "Zone_Transfer_Records": [],
+    "Subdomains": [
+        {
+            "Subdomain": "blog.saptanglabs.com",
+            "IP": "162.159.152.4",
+            "Details": "[200] [cloudflare]/[Medium]"
+        },
+        {
+            "Subdomain": "blog.saptanglabs.com",
+            "IP": "162.159.153.4",
+            "Details": "[200] [cloudflare]/[Medium]"
+        },
+        {
+            "Subdomain": "sales.saptanglabs.com",
+            "IP": "35.154.221.107",
+            "Details": "[200] [Caddy]"
+        },
+        {
+            "Subdomain": "www.saptanglabs.com",
+            "IP": "35.154.221.107",
+            "Details": "[200] [Caddy]/[Next.js]"
+        }
+    ]
+}
